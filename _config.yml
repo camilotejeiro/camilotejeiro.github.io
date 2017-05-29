@@ -1,1 +1,11 @@
+# Site properties 
+title: Camilo Tejeiro -- Nurture the Joy of Learning
+author: Camilo Tejeiro
+email: camilo.tejeiro@gmail.com
+description: Personal blog
+twitter_username: camilotejeiro
+github_username:  camilotejeiro
+
+# Build settings
+markdown: kramdown
 theme: minima
