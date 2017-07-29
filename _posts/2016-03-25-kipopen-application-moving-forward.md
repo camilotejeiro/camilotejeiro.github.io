@@ -1,6 +1,5 @@
 ---
 title: KipOpen Application, Moving Forward
-layout: post
 ---
 
 KipOpen is an open community investment web application. A decentralized online

@@ -1,6 +1,5 @@
 ---
 title: Android Quotes Display Apps
-layout: post
 ---
 
 There is an updated version of these apps (read more

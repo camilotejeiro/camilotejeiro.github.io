@@ -1,6 +1,5 @@
 ---
 title: Android Bluetooth LE Router Application
-layout: post
 ---
 
 Router Versions: V0, V1, V2.

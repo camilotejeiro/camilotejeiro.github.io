@@ -1,6 +1,5 @@
 ---
 title: Remote Weather Station
-layout: post
 ---
 
 This was a project done for one of my classes done to model a remote weather

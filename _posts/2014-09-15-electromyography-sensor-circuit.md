@@ -1,6 +1,5 @@
 ---
 title: Electromyography Sensor Circuit
-layout: post
 ---
 
 EMG Sensor Versions: V0.

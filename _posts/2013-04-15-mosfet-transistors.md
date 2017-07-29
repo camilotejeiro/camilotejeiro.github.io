@@ -1,6 +1,5 @@
 ---
 title: Mosfet Transistors
-layout: post
 ---
 
 Here I leave you with a video lecture covering an intuitive explanation of Mosfet transistors operation.

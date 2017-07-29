@@ -1,6 +1,5 @@
 ---
 title: The Learning Graph
-layout: post
 ---
 
 **How do we learn?**

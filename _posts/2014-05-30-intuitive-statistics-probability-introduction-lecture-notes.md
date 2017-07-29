@@ -1,6 +1,5 @@
 ---
 title: Intuitive Statistics, Probability Introduction Lecture Notes
-layout: post
 ---
 
 Intuitive statistics. Statistics may not be as dry as everyone makes it up to

@@ -1,6 +1,5 @@
 ---
 title: Open Technology Empowers Us
-layout: post
 ---
 
 So here is a small keynote talk given (during the [LibrePlanet 2016](https://libreplanet.org/2016/) 

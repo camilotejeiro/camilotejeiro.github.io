@@ -1,6 +1,5 @@
 ---
 title: IPC Land Pattern/Footprint Calculator
-layout: post
 ---
 
 I have been meaning to make my KiCad passive land pattern libraries compliant 

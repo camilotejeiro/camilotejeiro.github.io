@@ -1,6 +1,5 @@
 ---
 title: Why Documentation is Important
-layout: post
 ---
 
 **Documentation is planning ahead.**

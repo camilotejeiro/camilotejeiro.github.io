@@ -1,6 +1,5 @@
 ---
 title: How To Win Friends And Influence People (Quotes)
-layout: post
 ---
 
 A while ago I put together a collection of quotes from the book by Dale

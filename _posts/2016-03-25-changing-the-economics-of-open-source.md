@@ -1,6 +1,5 @@
 ---
 title: Changing the Economics of Open Source
-layout: post
 ---
 
 Is it possible that in our future, we can have consumer products where the

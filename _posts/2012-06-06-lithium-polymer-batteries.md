@@ -1,6 +1,5 @@
 ---
 title: Lithium Polymer Batteries
-layout: post
 ---
 
 Over this last few months I have been learning a little bit about this

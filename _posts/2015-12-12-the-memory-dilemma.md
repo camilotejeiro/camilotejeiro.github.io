@@ -1,6 +1,5 @@
 ---
 title: The Memory Dilemma
-layout: post
 ---
 
 So over the past few months, I have been a little uncomfortable with the fact

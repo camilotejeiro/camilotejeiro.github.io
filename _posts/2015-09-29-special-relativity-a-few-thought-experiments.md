@@ -1,6 +1,5 @@
 ---
 title: Relativity, A Few Thought Experiments
-layout: post
 ---
 
 Back when I was in college, we were given a small book to read for our

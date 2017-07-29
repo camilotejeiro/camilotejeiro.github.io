@@ -1,6 +1,5 @@
 ---
 title: KipOpen Documentation — Osohm
-layout: post
 ---
 
 We have released a preliminary draft that describes the functionality and features of the KipOpen web application.

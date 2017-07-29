@@ -1,6 +1,5 @@
 ---
 title: Solr5 Tutorial, Indexing Content
-layout: post
 ---
 
 This guide is to gain a bit of familiarity with the Solr search server, it is

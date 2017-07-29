@@ -1,6 +1,5 @@
 ---
 title: Fund an open source tax platform and stop the IRS from supporting the "Free File" Alliance
-layout: post
 ---
 
 _Bait and switch scam anyone_? Read On.

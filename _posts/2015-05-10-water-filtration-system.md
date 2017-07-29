@@ -1,6 +1,5 @@
 ---
 title: Water Filtration System
-layout: post
 ---
 
 Can we build an open hardware expandable filtration system to keep our aquariums

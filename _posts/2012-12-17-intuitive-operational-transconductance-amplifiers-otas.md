@@ -1,6 +1,5 @@
 ---
 title: Intuitive Operational Transconductance Amplifiers (OTA's)
-layout: post
 ---
 
 Here is a quick video going over the popular LM13700 OTA, after you finish

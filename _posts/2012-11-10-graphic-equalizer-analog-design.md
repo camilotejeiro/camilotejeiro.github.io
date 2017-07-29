@@ -1,6 +1,5 @@
 ---
 title: Graphic Equalizer Analog Design
-layout: post
 ---
 
 Hi everyone,

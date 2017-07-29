@@ -1,6 +1,5 @@
 ---
 title: 'LateX: Resume and Professional Profile Templates'
-layout: post
 ---
 
 So I have been using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) for a while

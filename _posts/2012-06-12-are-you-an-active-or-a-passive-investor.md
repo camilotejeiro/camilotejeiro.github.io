@@ -1,6 +1,5 @@
 ---
 title: Are You an Active or a Passive Investor?
-layout: post
 ---
 
 If you have read the Intelligent Investor or other books by Ben Graham you will

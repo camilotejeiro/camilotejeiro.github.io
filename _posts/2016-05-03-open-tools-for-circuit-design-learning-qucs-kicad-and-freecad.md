@@ -1,6 +1,5 @@
 --- 
 title: Open tools for circuit design - Learning QUCS, KiCad and Freecad
-layout: post 
 ---
 
 The Wah Pedal 
@@ -22,7 +21,6 @@ The Final Design
 
 ### The Board Layout
 
-![the wah pedal layout](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_2.png)
 
 * Note that [stitching vias around the ground plane](https://forum.kicad.info/t/via-stitching-in-pcbnew/138) 
     is somewhat counterintuitive.
@@ -110,7 +108,6 @@ listen to the rants :) ):
 
 After you build your libraries for every component you need in the circuit, you
 can proceed to create the schematic project in EESchema, assign footprints to
-the schematic components with CvPcb, work on the board layout with PCBNew, and
 finally plot the Gerbers for manufacturing.
 
 ## Learning FreeCAD

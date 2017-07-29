@@ -1,6 +1,5 @@
 ---
 title: Bipolar Junction Transistors
-layout: post
 ---
 
 Here is an intuitive explanation of how Bipolar Junction Transistors work. Enjoy

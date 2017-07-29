@@ -1,6 +1,5 @@
 ---
 title: Voltage Controlled Low Pass Filter Analog Design
-layout: post
 ---
 
 For this project the team was required to design a low pass filter with:

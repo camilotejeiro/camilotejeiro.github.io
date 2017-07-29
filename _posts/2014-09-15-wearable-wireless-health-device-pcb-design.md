@@ -1,6 +1,5 @@
 ---
 title: Wearable Wireless Health Device PCB Design
-layout: post
 ---
 
 Device Versions: V0, V1, V2.

@@ -1,6 +1,5 @@
 ---
 title: The Essays of Warren Buffett (Summary Quotes)
-layout: post
 ---
 
 > A pin lies in wait for every bubble. And when the two eventually meet, a new

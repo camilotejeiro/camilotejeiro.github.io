@@ -1,6 +1,5 @@
 ---
 title: Printrbot simple 1405 (Rev F)  3D Printer Startup Guide
-layout: post
 ---
 
 The following little post is intended to help those just wanting to both learn

@@ -1,6 +1,5 @@
 ---
 title: Nutch1-Solr5 Integration, Searching the Web
-layout: post
 ---
 
 Now we are going to Integrate our web crawler with our search server to have our complete search engine solution.

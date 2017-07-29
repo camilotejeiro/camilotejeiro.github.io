@@ -1,6 +1,5 @@
 ---
 title: Linux Tablet Computer Notes
-layout: post
 ---
 
 I hope this post will provide some brief pointers to all those aiming to explore

@@ -1,6 +1,5 @@
 ---
 title: Nutch1 Quick Tutorial, Learning to Crawl
-layout: post
 ---
 
 Here is a quick hands-on tutorial to gain some familiarity with 

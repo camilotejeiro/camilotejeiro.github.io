@@ -1,6 +1,5 @@
 ---
 title: PID Controllers
-layout: post
 ---
 
 Here is a quick intuitive explanation of PID controllers, sorry for the length

@@ -1,6 +1,5 @@
 ---
 title: Lightweight Markup Languages and When to Use Them
-layout: post
 ---
 
 _Please note these are purely my opinions._

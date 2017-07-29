@@ -1,6 +1,5 @@
 ---
 title: Convolution
-layout: post
 ---
 
 Here is a video covering an intuitive view of convolution. Enjoy.

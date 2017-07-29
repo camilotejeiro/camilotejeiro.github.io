@@ -1,6 +1,5 @@
 ---
 title: PVT Invariant Voltage Controlled Low Pass Filter
-layout: post
 ---
 
 This project built into the previously designed adjustable high order low pass

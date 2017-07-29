@@ -1,6 +1,5 @@
 ---
 title: Classical Mechanics Part1
-layout: post
 ---
 
 The following lecture notes cover the simple concepts of position, velocity and

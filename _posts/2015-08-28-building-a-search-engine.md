@@ -1,6 +1,5 @@
 ---
 title: Building a Search Engine
-layout: post
 ---
 
 One of the projects I am working on is implementing a simple search engine for

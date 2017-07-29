@@ -1,6 +1,5 @@
 ---
 title: Galvanic Skin Response Sensor Circuit Design
-layout: post
 ---
 
 GSR Sensor Versions: V0, V1.

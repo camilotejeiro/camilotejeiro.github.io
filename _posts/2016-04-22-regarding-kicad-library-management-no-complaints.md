@@ -1,6 +1,5 @@
 ---
 title: Regarding KiCad Library Management - No Complaints
-layout: post
 ---
 
 **It's actually not bad**

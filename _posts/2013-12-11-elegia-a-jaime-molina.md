@@ -1,6 +1,5 @@
 ---
 title: Elegia a Jaime Molina
-layout: post
 ---
 
 **Elegia a Jaime Molina**

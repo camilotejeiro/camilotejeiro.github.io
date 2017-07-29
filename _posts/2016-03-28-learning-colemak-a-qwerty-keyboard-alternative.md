@@ -1,10 +1,7 @@
 ---
 title: Learning Colemak, a Qwerty Keyboard Alternative
-layout: post
 ---
 
-[Colemak](http://colemak.com/) is an alternative keyboard layout to the standard
-Qwerty layout that we use everyday.
 
 A better alternative? maybe? _Up to you,_ however here are 
 [some stats](http://mkweb.bcgsc.ca/carpalx/?colemak#colemak_detailed_statistics) 
@@ -15,7 +12,6 @@ and a quick [FAQ](http://colemak.com/FAQ) page for your reference.
 _These are specifically for a GNU/Linux machine_ but i am thinking it probably
 works similarly on other Operating systems.
     
-* **Print the Colemak** [keyboard layout image](http://colemak.com/Images) (for initial reference only):
 
 _While you are practicing/learning to touch type try not to use stickers or 
 modify your physical keyboard in any manner, later on you can use visual aids._

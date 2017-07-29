@@ -1,6 +1,5 @@
 ---
 title: PN Junctions and Diodes
-layout: post
 ---
 
 Here is the intuitive, visual explanation of Diodes, PN junctions and device physics

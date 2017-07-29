@@ -1,6 +1,5 @@
 ---
 title: Voltage Controlled Filters
-layout: post
 ---
 
 [Here is a quick video](https://youtu.be/qKBR2kDiRaI)

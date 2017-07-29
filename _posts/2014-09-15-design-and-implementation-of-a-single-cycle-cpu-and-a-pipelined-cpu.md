@@ -1,6 +1,5 @@
 ---
 title: Design and Implementation of a Single Cycle CPU and a Pipelined CPU
-layout: post
 ---
 
 Designed the processors’ hardware architectures and developed the individual

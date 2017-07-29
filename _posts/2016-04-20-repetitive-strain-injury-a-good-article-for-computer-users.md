@@ -1,6 +1,5 @@
 ---
 title: Repetitive Strain Injury - A good article for computer users
-layout: post
 ---
 
 Do you type a lot? or spend most of your day programming?

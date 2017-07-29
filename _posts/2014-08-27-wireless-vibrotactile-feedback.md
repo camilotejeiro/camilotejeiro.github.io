@@ -1,6 +1,5 @@
 ---
 title: Wireless Vibrotactile Feedback
-layout: post
 ---
 
 This project was the final project for my EE 478 Embedded systems capstone, a

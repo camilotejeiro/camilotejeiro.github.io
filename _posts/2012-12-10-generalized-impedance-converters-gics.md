@@ -1,6 +1,5 @@
 ---
 title: Generalized Impedance Converters GIC's
-layout: post
 ---
 
 Here I leave you with a video explaining in detail the intuition behind GIC's

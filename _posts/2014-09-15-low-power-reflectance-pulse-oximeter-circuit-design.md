@@ -1,6 +1,5 @@
 ---
 title: Low Power Reflectance Pulse Oximeter Circuit Design
-layout: post
 ---
 
 Pulse Oximeter Versions: V0, V1, V2.

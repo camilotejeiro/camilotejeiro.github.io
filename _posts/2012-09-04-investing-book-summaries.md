@@ -1,6 +1,5 @@
 ---
 title: Investing Book Summaries
-layout: post
 ---
 
 Hi all,

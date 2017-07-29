@@ -1,6 +1,5 @@
 ---
 title: Text Simple Planner, Managing Tasks With Text Files
-layout: post
 ---
 
 > No fancy apps, plain and simple, just a text based planner.
