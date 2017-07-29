@@ -2,11 +2,10 @@
 title: Camilo Tejeiro -- Nurture the Joy of Learning
 author: Camilo Tejeiro
 email: camilo.tejeiro@gmail.com
-description: > # 
-    Hardware Electrical Engineer: 
-    Motivated by curiosity and a passion for learning.
-twitter_username: camilotejeiro
+description: Hardware Electrical Engineer 
+# twitter_username: camilotejeiro
 github_username:  camilotejeiro
+
 
 # Build settings
 markdown: kramdown
