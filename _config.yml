@@ -8,7 +8,7 @@ github_username:  camilotejeiro
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 gems:
     - jekyll-feed
 
