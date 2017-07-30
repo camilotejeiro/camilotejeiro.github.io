@@ -8,7 +8,7 @@ There is an updated version of these apps
 This is a continuation of [my previous efforts](% post_url 2015-05-06-android-random-text-widget)
 to design a little app(s) to allow me to display my quotes or 
 [book summaries](https://github.com/camilotejeiro/book_summary_quotes) 
-(which I have stored as paragraphs in text files) in random order in my phone 
+(which I have stored as paragraphs in text linked_files) in random order in my phone 
 home screen or in an Android picture frame (or just an old android phone). 
 You can read more detailed information about these applications in the 
 [project documentation](https://github.com/Osohm/android_quotes_display_apps/blob/master/documentation/user_functional_specification.md).
@@ -40,3 +40,4 @@ perhaps one day they will get fixed :).
 
 Enjoy and share with others ;)
 
+{% include issues_comments.md %}

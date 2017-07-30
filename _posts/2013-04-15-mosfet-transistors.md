@@ -21,3 +21,5 @@ Material Covered:
 [MOSFETs Video](https://youtu.be/gfGjce2llSo)
 
 references: [http://www.ece.utah.edu/~ccharles/ece5720/Intro.pdf](http://www.ece.utah.edu/~ccharles/ece5720/Intro.pdf)
+
+{% include issues_comments.md %}

@@ -40,7 +40,7 @@ Backup the current schema file.
 
 > mv managed-schema solr_managed-schema.bak 
 
-Now [download the modified schema.xml](/assets/2015-08-28-nutch1-solr5-integration-searching-the-web_1.xml) 
+Now [download the modified schema.xml](/linked_files/2015-08-28-nutch1-solr5-integration-searching-the-web_1.xml) 
 file and put it in the configuration directory.
 
 **4. Modifying the Solr configuration file.**
@@ -55,7 +55,7 @@ Backup the current solrconfig file.
 
 > mv solrconfig.xml solrconfig.xml.bak 
 
-Now [download the modified solrconfig.xml](/assets/2015-08-28-nutch1-solr5-integration-searching-the-web_2.xml)
+Now [download the modified solrconfig.xml](/linked_files/2015-08-28-nutch1-solr5-integration-searching-the-web_2.xml)
 file and put it in the configuration directory.
 
 **5. Restart the Solr server** Now restart the server for changes to take
@@ -108,3 +108,5 @@ I got to say, I am sure I have typos here and there, If you find one, let me
 know so others can benefit as well :)
 
 Cheers, that was not bad!
+
+{% include issues_comments.md %}

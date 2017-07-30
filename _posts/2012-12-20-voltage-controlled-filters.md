@@ -16,8 +16,10 @@ And here are some interesting papers if you feel more curious:
 
 [http://electronotes.netfirms.com/EN85VCF.PDF](http://electronotes.netfirms.com/EN85VCF.PDF)
 
-[http://www.cmsworldwide.com/iscas2004/tutorialfiles/1_sanchez_silva.pdf](http://www.cmsworldwide.com/iscas2004/tutorialfiles/1_sanchez_silva.pdf)
+[http://www.cmsworldwide.com/iscas2004/tutoriallinked_files/1_sanchez_silva.pdf](http://www.cmsworldwide.com/iscas2004/tutoriallinked_files/1_sanchez_silva.pdf)
 
 [http://www.ece.gatech.edu/academic/courses/ece6414/References/Hasler_gmCFilter01.pdf](http://www.ece.gatech.edu/academic/courses/ece6414/References/Hasler_gmCFilter01.pdf)
 
 [http://www.onsemi.com/pub_link/Collateral/NE5517-D.PDF](http://www.onsemi.com/pub_link/Collateral/NE5517-D.PDF)
+
+{% include issues_comments.md %}

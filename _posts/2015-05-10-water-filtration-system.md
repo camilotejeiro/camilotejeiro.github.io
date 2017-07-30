@@ -5,7 +5,7 @@ title: Water Filtration System
 Can we build an open hardware expandable filtration system to keep our aquariums
 clean with little maintenance?
 
-_You can get all of the relevant files for this project at the bottom of this
+_You can get all of the relevant linked_files for this project at the bottom of this
 post_
 
 So I have two messy turtle pets that love to eat but don't like to clean up
@@ -54,7 +54,7 @@ dirt accumulates in one corner of the tank you just do a quick floor sweep and
 bingo the house is clean :)
 
 So at this point I had lots of design drawings and a rough idea about the inner
-details of each individual filter stage, all in text files and sketches (b.t.w
+details of each individual filter stage, all in text linked_files and sketches (b.t.w
 check out xournal is a pretty cool open source hand notes suite for linux, kind
 of like OneNote for windows users).
 
@@ -98,7 +98,7 @@ All of the CAD resources can be found in my
 [water filtration github repo](https://github.com/Osohm/water_filtration_system)
 
 e.g. If you want to test drive the filter system you can browse to the
-individual filter sub-directories, and simply use the .stl files to 3D print the
+individual filter sub-directories, and simply use the .stl linked_files to 3D print the
 filter sections.
 
 You will also need the following inexpensive items:
@@ -124,43 +124,43 @@ sorry for the water, i took the pictures during a quick filter cleanup.
 
 Function: Large mechanical Filtration
 
-![Filter Head 1](/assets/2015-05-10-water-filtration-system_1.jpg)
+![Filter Head 1](/linked_files/2015-05-10-water-filtration-system_1.jpg)
 
 **Turtles Filter Head 2**
 
 Function: Large mechanical Filtration
 
-![Turtles Filter Head 2](/assets/2015-05-10-water-filtration-system_2.jpg)
+![Turtles Filter Head 2](/linked_files/2015-05-10-water-filtration-system_2.jpg)
 
-![Turtles Filter Head 2](/assets/2015-05-10-water-filtration-system_3.jpg)
+![Turtles Filter Head 2](/linked_files/2015-05-10-water-filtration-system_3.jpg)
 
 **Turtles Pump Stage**
 
 Function: Housing for the pump
 
-![Turtles Pump Stage](/assets/2015-05-10-water-filtration-system_4.jpg)
+![Turtles Pump Stage](/linked_files/2015-05-10-water-filtration-system_4.jpg)
 
-![Water Pump](/assets/2015-05-10-water-filtration-system_5.jpg)
+![Water Pump](/linked_files/2015-05-10-water-filtration-system_5.jpg)
 
 **Turtles Filter Stage 1**
 
 function: Biological Filtration
 
-![Turtles Filter Stage 1](/assets/2015-05-10-water-filtration-system_6.jpg)
+![Turtles Filter Stage 1](/linked_files/2015-05-10-water-filtration-system_6.jpg)
 
 **Turtles Filter Stage 2-Chemical**
 
 function: Chemical Filtration
 
-![Filter Stage 2-chem](/assets/2015-05-10-water-filtration-system_7.jpg)
+![Filter Stage 2-chem](/linked_files/2015-05-10-water-filtration-system_7.jpg)
 
-![Chemical Filtration Stage](/assets/2015-05-10-water-filtration-system_8.jpg)
+![Chemical Filtration Stage](/linked_files/2015-05-10-water-filtration-system_8.jpg)
 
 **Turtles Filter Stage 2-Mechanical**
 
 function: fine mechanical filtration
 
-![Filter stage 2 mech](/assets/2015-05-10-water-filtration-system_9.jpg)
+![Filter stage 2 mech](/linked_files/2015-05-10-water-filtration-system_9.jpg)
 
 And that's it those are all the stages of our filter: Filter Head 1, Filter
 Head2, Pump Stage, Filter Stage 1, Filter Stage 2-chem, Filter Stage 2-mech.
@@ -170,18 +170,20 @@ Head2, Pump Stage, Filter Stage 1, Filter Stage 2-chem, Filter Stage 2-mech.
 Now here are some pictures of the dirty filter after operation for around one
 month.
 
-![Filter Dirty 1](/assets/2015-05-10-water-filtration-system_10.jpg)
+![Filter Dirty 1](/linked_files/2015-05-10-water-filtration-system_10.jpg)
 
-![Dirty Filter 2](/assets/2015-05-10-water-filtration-system_12.jpg)
+![Dirty Filter 2](/linked_files/2015-05-10-water-filtration-system_12.jpg)
 
 **Complete Filter (Clean)**
 
 right after cleaning all of the filter sections.
 
-![Filter Clean 1](/assets/2015-05-10-water-filtration-system_13.jpg)
+![Filter Clean 1](/linked_files/2015-05-10-water-filtration-system_13.jpg)
 
-![Filter Clean 2](/assets/2015-05-10-water-filtration-system_14.jpg)
+![Filter Clean 2](/linked_files/2015-05-10-water-filtration-system_14.jpg)
 
 In conclusion, the filter works better than I would have ever hoped for!
 
 Enjoy and share with others :)
+
+{% include issues_comments.md %}

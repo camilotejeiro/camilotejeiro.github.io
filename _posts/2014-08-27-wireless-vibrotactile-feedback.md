@@ -17,11 +17,11 @@ Here is a
 
 Here is the complete project report:
 
-[Wireless Vibrotactile Feedback Report](/assets/2014-08-27-wireless-vibrotactile-feedback_1.pdf)
+[Wireless Vibrotactile Feedback Report](/linked_files/2014-08-27-wireless-vibrotactile-feedback_1.pdf)
 
 And below are the pictures of a few important parts of the project:
 
-![The EMG acquisition circuit](/assets/2014-08-27-wireless-vibrotactile-feedback_2.jpg)
+![The EMG acquisition circuit](/linked_files/2014-08-27-wireless-vibrotactile-feedback_2.jpg)
 
 Here is a brief description of the circuit, I am sorry since i did this sometime
 ago and I cant remember the details but here it is, there is basically an
@@ -38,7 +38,7 @@ inverting configuration and finally we take that signal and invert it again and
 we have a potentiometer to provide variable gain for users with different EMG
 signals.
 
-![EZ430RF2500 (MSP microcontroller with integrated CC2500 radio](/assets/2014-08-27-wireless-vibrotactile-feedback_3.jpg)
+![EZ430RF2500 (MSP microcontroller with integrated CC2500 radio](/linked_files/2014-08-27-wireless-vibrotactile-feedback_3.jpg)
 
 We used the micro controller to digitize the signal coming in from both the
 force sensing resistors at the tip of the robotic manipulator and the signal
@@ -46,3 +46,5 @@ from the EMG acquisition circuit, the integrated radio is used for bidirectional
 transmission.
 
 It was a nice team project, hope you enjoyed the video and the pictures.
+
+{% include issues_comments.md %}

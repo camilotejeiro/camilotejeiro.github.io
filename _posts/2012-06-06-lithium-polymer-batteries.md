@@ -55,7 +55,7 @@ battery pack
 
 Here are a few pictures of the batteries I have been using for my projects:
 
-![Battery Pictures](/assets/2012-06-06-lithium-polymer-batteries_1.jpg)
+![Battery Pictures](/linked_files/2012-06-06-lithium-polymer-batteries_1.jpg)
 
 Ok, time to start cranking out your portable electronics ideas!
 
@@ -63,3 +63,5 @@ Hope it helps someone that is considering using Li-Po batteries, I will add some
 more notes or items as I remember them, also let me know if I missed something
 
 Thanks!
+
+{% include issues_comments.md %}

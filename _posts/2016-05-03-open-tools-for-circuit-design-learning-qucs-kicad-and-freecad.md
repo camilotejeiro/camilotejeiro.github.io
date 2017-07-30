@@ -17,7 +17,7 @@ The Final Design
 
 ### The Circuit simulation
 
-![wah pedal simulation](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_1.png)
+![wah pedal simulation](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_1.png)
 
 ### The Board Layout
 
@@ -27,16 +27,16 @@ The Final Design
 
 ### The 3D Model
 
-![wah pedal 3d view](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_3.png)
+![wah pedal 3d view](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_3.png)
 
 _Below you can find more information about how this board came about.
 Specifically about the open tools I used and the learning process. At the end
-you can find the design files._
+you can find the design linked_files._
 
 ### The Printed Circuit Boards
 
-![Individual PCB](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_4.jpg)
-![Multiple PCBs](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_5.jpg)
+![Individual PCB](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_4.jpg)
+![Multiple PCBs](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_5.jpg)
 
 ## Choosing the tools
 
@@ -117,7 +117,7 @@ whole board can be rendered nicely and you can inspect for mistakes before
 sending the board to the fab.
 
 Normally, KiCad 3D component models are built with [Wings 3D](http://www.wings3d.com/), 
-but we need FreeCAD to import the .stp files we get from the manufacturers 
+but we need FreeCAD to import the .stp linked_files we get from the manufacturers 
 (plus I have a little bit of experience working with FreeCAD).
 
 My learning process for FreeCAD (as it relates to KiCad) went like this:
@@ -139,21 +139,21 @@ My learning process for FreeCAD (as it relates to KiCad) went like this:
     - [Export the model to Wings 3D](https://www.youtube.com/watch?v=bGp9ejC2vU8) 
         for coloring and creating the .wrl file for compliance with KiCad.
 
-After you are done building your models and you have exported the .wrl files
+After you are done building your models and you have exported the .wrl linked_files
 that KiCad needs, open up the footprint editor in KiCad and assign your 3D
 models to their respective footprints (footprint properties -> 3D models).
 
 Here are some models I built while learning:
 
-![potentiometer](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_6.png)
+![potentiometer](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_6.png)
 
-![inductor](/assets/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_7.png)
+![inductor](/linked_files/2016-05-03-open-tools-for-circuit-design-learning-qucs-kicad-and-freecad_7.png)
 
-## The files
+## The linked_files
 
 And finally,
     
-* Here are the [design files](https://github.com/camilotejeiro/the_wah_pedal) 
+* Here are the [design linked_files](https://github.com/camilotejeiro/the_wah_pedal) 
     for the Wah Pedal Project.
 
 * And the [shared project](https://oshpark.com/shared_projects/yCZvyTVz) ready 
@@ -164,3 +164,5 @@ Hope it helps someone, somewhere, anywhere? :)
 Enjoy and share with others!
 
 Feedback? questions? Please let me know in the comments below.
+
+{% include issues_comments.md %}

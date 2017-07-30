@@ -148,3 +148,5 @@ If I have any errors/typos or if I missed something, post a comment or e-mail
 and let me know, Thanks!
 
 Reference for this post: [Official Nutch Tutorial](https://wiki.apache.org/nutch/NutchTutorial)
+
+{% include issues_comments.md %}

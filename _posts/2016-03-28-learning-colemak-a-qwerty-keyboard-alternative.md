@@ -55,3 +55,4 @@ If you find mistakes or typos, kindly let me know so I can fix them :)
 
 Enjoy and share with others.
 
+{% include issues_comments.md %}

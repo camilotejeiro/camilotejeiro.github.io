@@ -7,7 +7,7 @@ that no matter how much I learn or how well I understand a subject, at the end,
 after a while, my brain simply forgets; Detailed information is lost nightly.
 
 Eventually I felt like I was constantly fighting to safeguard my hard earned
-understanding in hand written notes and text files (I mean understanding some
+understanding in hand written notes and text linked_files (I mean understanding some
 physics and engineering concepts takes time). Sometimes it felt like memento
 (the movie) :( and that's kind of sad. Also somehow these notes didn't feel very
 useful afterwards and often "re-learning" the material was way easier.
@@ -42,3 +42,5 @@ matters most to you in any way that fits your style; focus on building solid
 paths not on finding ways to get the brain to store and retain more information.
 Only then, can you use the brain for what it is meant for: learning, re-learning
 and then learning some more" :)
+
+{% include issues_comments.md %}

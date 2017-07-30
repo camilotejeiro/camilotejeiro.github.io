@@ -15,3 +15,5 @@ Material Covered:
 references:
 
 Analog Integrated Circuit Design. Author: Tony C. Charusone
+
+{% include issues_comments.md %}

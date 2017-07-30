@@ -16,3 +16,5 @@ I wrote to display the quotes). I also printed out the quotes and I read them
 once in a while. Hope this inspires you to read the book :)
 
 Cheers
+
+{% include issues_comments.md %}

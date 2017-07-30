@@ -10,7 +10,7 @@ you with a quick video and a design report.
 
 Here is the Design Report.
 
-[Graphic Equalizer Design](/assets/2012-11-10-graphic-equalizer-analog-design_1.docx)
+[Graphic Equalizer Design](/linked_files/2012-11-10-graphic-equalizer-analog-design_1.docx)
 
 And the [video with the circuit in action](https://youtu.be/QKWozk7HAx4)
 
@@ -19,3 +19,5 @@ and the
 overall a huge improvement in sound quality:
 
 Enjoy!
+
+{% include issues_comments.md %}

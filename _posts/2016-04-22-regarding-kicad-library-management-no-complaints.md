@@ -34,3 +34,5 @@ build and maintain your own libraries** and do it in a way that works best for
 you. **Do not expect a one size fit all solution.**
 
 _note: this post represents only my opinions_
+
+{% include issues_comments.md %}

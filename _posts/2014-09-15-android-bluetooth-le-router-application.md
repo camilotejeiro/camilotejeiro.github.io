@@ -9,3 +9,5 @@ Router Versions: V0, V1, V2.
 - Developed a service based multi-threaded router application (Bluetooth LE and
   Internet communication support) with integrated tasks scheduling, inter
   process communication and error detection and handling.
+
+{% include issues_comments.md %}

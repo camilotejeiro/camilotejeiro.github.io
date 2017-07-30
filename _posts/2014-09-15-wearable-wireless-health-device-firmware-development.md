@@ -8,3 +8,5 @@ Device Versions: V0, V1, V2.
 - Developed the digital (I2C) and analog sensors interface, the synchronous and
   asynchronous processing logic and the Bluetooth LE wireless communication
   (proprietary custom BLE service).
+
+{% include issues_comments.md %}

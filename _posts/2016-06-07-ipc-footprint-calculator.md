@@ -33,3 +33,4 @@ help you:
     
 * [http://www.pcblibraries.com/forum/ipc7351-smd-pth-reference-calculators_topic785.html](http://www.pcblibraries.com/forum/ipc7351-smd-pth-reference-calculators_topic785.html)
 
+{% include issues_comments.md %}

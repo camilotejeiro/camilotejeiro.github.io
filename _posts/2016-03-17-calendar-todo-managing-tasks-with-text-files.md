@@ -5,13 +5,13 @@ title: Text Simple Planner, Managing Tasks With Text Files
 > No fancy apps, plain and simple, just a text based planner.
 
 This post is for those that love the utter simplicity and flexibility of text
-files (.txt), the following are some advantages you might have heard of :
+linked_files (.txt), the following are some advantages you might have heard of :
 
-1. You can open text files literally anywhere (your phone, your tablet, your
+1. You can open text linked_files literally anywhere (your phone, your tablet, your
 desktop computer ...etc) and they are supported by every operating system I
 know of (talk about cross-platform).
 
-2. You don't need any special software to open text-files (no calendar,
+2. You don't need any special software to open text-linked_files (no calendar,
 planning apps ...etc. none of that nonsense), hell you can even use a browser
 (not that you would particularly want to do that).
 
@@ -29,20 +29,20 @@ no fancy colors or multiple fonts or ... you get the point. I personally don't
 care too much about these except when you have to send it to other people and
 they complain (so you have to put a nice ribbon around it).
 
-So a while ago (a couple of years ago) I started to use text files to handle my
+So a while ago (a couple of years ago) I started to use text linked_files to handle my
 day to day planning, it was a bit rough at the beginning but over the years the
 system has evolved and has gotten more efficient, to the point where it might
 actually be useful to others (though nowhere as developed as
 [Todo.txt](http://todotxt.com/) or other applications).
 
 Here is the [default directory setup](https://github.com/Osohm/text_simple_planner/tree/master/templates) 
-with folders and text files, plus spreadsheet and drawing files (I know, I know, I
+with folders and text linked_files, plus spreadsheet and drawing linked_files (I know, I know, I
 cheated but sometimes these are useful for formulas, tables, block diagrams
 ...etc, plus they are open tools):
 
 
-and here is my personal setup in use (note that I keep a reference of old files
-simply by appending a date at the end, current files are undated):
+and here is my personal setup in use (note that I keep a reference of old linked_files
+simply by appending a date at the end, current linked_files are undated):
 
 ```
     notes_templates
@@ -64,12 +64,12 @@ simply by appending a date at the end, current files are undated):
         └── recurrent_todo.txt
 ```
 
-And I just keep a simple text editor open to edit the files directly (I am using
+And I just keep a simple text editor open to edit the linked_files directly (I am using
 [Geany](http://www.geany.org/)).
 
-![notes workspace](/assets/2016-03-17-calendar-todo-managing-tasks-with-text-files_1.png)
+![notes workspace](/linked_files/2016-03-17-calendar-todo-managing-tasks-with-text-linked_files_1.png)
 
-Finally here is a brief snippet illustrating how each one of these text files
+Finally here is a brief snippet illustrating how each one of these text linked_files
 looks like (I loosely use [Markdown](https://en.wikipedia.org/wiki/Markdown) for
 the syntax, just for aesthetics) and how I use them in my real day to day
 planning (If you haven't done so, go on and download the 
@@ -109,7 +109,7 @@ have been warned, hey).
     ----
     ### Search Notes Script - Add support for ODF formats.
     ----
-    It can search in all text files as well as open 
+    It can search in all text linked_files as well as open 
     spreadsheets and other open office documents.
     [...]
 ```
@@ -268,9 +268,11 @@ have been warned, hey).
 
 As an added bonus, I also have been working on [a couple of
 scripts](https://github.com/Osohm/text_simple_planner/tree/master/scripts) to
-help me manipulate these text files (e.g. find text, create new annual calendar
+help me manipulate these text linked_files (e.g. find text, create new annual calendar
 ...etc).
 
 Let me know what y'all think, hope it helps some lost soul somewhere out there.
 
 enjoy and share with others :)
+
+{% include issues_comments.md %}

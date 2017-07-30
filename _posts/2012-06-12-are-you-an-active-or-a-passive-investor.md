@@ -45,3 +45,5 @@ individual stocks but it proved to be extremely time consuming very rewarding
 Yes!, but also very time consuming and
 
 Remember: you can't be a semi-active investor! You can try :)
+
+{% include issues_comments.md %}

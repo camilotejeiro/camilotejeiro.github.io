@@ -11,4 +11,6 @@ rewards for our time invested? These are all interesting questions!
 Over the years I have put together a personal learning graph (completely
 empirical of course): 
 
-![the learning graph](/assets/2017-05-20-the-learning-graph_1.png)
+![the learning graph](/linked_files/2017-05-20-the-learning-graph_1.png)
+
+{% include issues_comments.md %}

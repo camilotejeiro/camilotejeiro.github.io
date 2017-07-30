@@ -6,7 +6,7 @@ There is an updated version of these apps (read more
 [here]({% post_url 2016-01-08-android-quotes-display-apps-v2 %}).
 I am keeping this post for reference.
 
-Do you like to keep your notes in plain text files. I am posting two little
+Do you like to keep your notes in plain text linked_files. I am posting two little
 widget applications that might make your day brighter. hehehe :)
 
 So, For the longest time I was searching for a widget application that could
@@ -43,7 +43,7 @@ have a newer version of Android (Target Version 4.4) use the android studio
 projects
 
 And if you just want the signed applications (compiled for Android version 2.3
-and 4.4) download the .apk files and install them in your phone (they are inside
+and 4.4) download the .apk linked_files and install them in your phone (they are inside
 the github repo under each project directory).
 
 And remember this is a widget, so you can not run it from the app explorer, you
@@ -51,7 +51,9 @@ can only add it to the phone screen.
 
 Here are some pictures of the widgets at work.
 
-![Widget Application Screnshot 1](/assets/2015-05-07-android-random-text-widget_1.png)
-![Widget Application Screenshot 2](/assets/2015-05-07-android-random-text-widget_2.png)
+![Widget Application Screnshot 1](/linked_files/2015-05-07-android-random-text-widget_1.png)
+![Widget Application Screenshot 2](/linked_files/2015-05-07-android-random-text-widget_2.png)
 
 Enjoy and share with others ;)
+
+{% include issues_comments.md %}

@@ -12,3 +12,5 @@ results.
 Enjoy!
 
 [GIC's Video](https://youtu.be/o4bypcPkFRc)
+
+{% include issues_comments.md %}

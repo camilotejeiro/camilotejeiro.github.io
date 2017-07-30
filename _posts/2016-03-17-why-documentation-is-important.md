@@ -27,3 +27,5 @@ _As a last note: A while ago I found this
 [set of articles](http://www.joelonsoftware.com/articles/fog0000000036.html) 
 published by [Joel Spolsky](http://www.joelonsoftware.com/AboutMe.html) which I 
 thought were excellent and quite entertaining, totally worth reading._
+
+{% include issues_comments.md %}

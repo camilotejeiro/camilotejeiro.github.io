@@ -23,3 +23,5 @@ Material Covered:
 [PN Junctions and Diodes Video](https://youtu.be/HoA24CLRld4)
 
 references: [http://www.ece.utah.edu/~ccharles/ece5720/Intro.pdf](http://www.ece.utah.edu/~ccharles/ece5720/Intro.pdf)
+
+{% include issues_comments.md %}

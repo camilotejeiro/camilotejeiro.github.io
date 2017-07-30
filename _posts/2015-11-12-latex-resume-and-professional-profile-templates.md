@@ -58,3 +58,5 @@ to see what the templates can do for you.
 I hope it helps.
 
 Cheers,
+
+{% include issues_comments.md %}

@@ -15,7 +15,7 @@ is a great little book.
 I am sharing some of these notes with you, perhaps it helps someone :).
 
 _You can click the links and see the pdf's in the embedded GitHub viewer or
-click the raw button in Github to download the pdf files directly._
+click the raw button in Github to download the pdf linked_files directly._
 
 [Special Relativity, A Few Thought Experiments](https://github.com/camilotejeiro/book_learning_notes/blob/master/physics_for_poets-4ed-robert_march/chapter_9-the_birth_of_relativity/chapter_9-the_birth_of_relativity.pdf)
 
@@ -24,3 +24,5 @@ click the raw button in Github to download the pdf files directly._
 [E=mc^2 and All That](https://github.com/camilotejeiro/book_learning_notes/blob/master/physics_for_poets-4ed-robert_march/chapter_11-emc2_and_all_that/chapter_11-emc2_and_all_that.pdf)
 
 [Curved Space-Time](https://github.com/camilotejeiro/book_learning_notes/blob/master/physics_for_poets-4ed-robert_march/chapter_12-did_god_have_any_choice/chapter_12-did_good_have_any_choice.pdf)
+
+{% include issues_comments.md %}

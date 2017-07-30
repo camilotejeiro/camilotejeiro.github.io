@@ -38,3 +38,5 @@ Please refer to the Linux Wacom Project for more info:
 [Linux Wacom Project](http://linuxwacom.sourceforge.net/index_old.php/howto/main)
 
 Hopefully these tips prove helpful to all you note takers out there.
+
+{% include issues_comments.md %}

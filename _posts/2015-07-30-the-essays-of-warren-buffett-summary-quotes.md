@@ -24,3 +24,5 @@ I wrote to display the quotes, as well as my previous book summary
 I Hope this inspires you to read the book :)
 
 Cheers
+
+{% include issues_comments.md %}

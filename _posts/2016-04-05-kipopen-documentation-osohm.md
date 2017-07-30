@@ -9,3 +9,5 @@ We have released a preliminary draft that describes the functionality and featur
 * [KipOpen Functional Specification.](http://osohm.github.io/kipopen_website/documentation/user_functional_specification)
 
 Typos? Advice? Help? Please leave your comments below.
+
+{% include issues_comments.md %}

@@ -10,4 +10,6 @@ Here are some lecture notes I put together for a future video I am planning to
 make regarding a quick Introduction to probability! I am hopeful I can put
 together the video lecture up soon!
 
-[Probability Introduction](/assets/2014-05-30-intuitive-statistics-probability-introduction-lecture-notes_1.pdf)
+[Probability Introduction](/linked_files/2014-05-30-intuitive-statistics-probability-introduction-lecture-notes_1.pdf)
+
+{% include issues_comments.md %}

@@ -11,3 +11,5 @@ Conference) a couple of days ago on [Free and Open Source](https://en.wikipedia.
 
 > Blind dependence on technology and continuous exposure to manipulative
 > marketing leads to misjudgment and unhealthy consumption habits.
+
+{% include issues_comments.md %}

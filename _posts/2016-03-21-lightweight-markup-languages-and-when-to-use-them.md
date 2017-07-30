@@ -20,11 +20,11 @@ From my research it seems:
 
 e.g. for your text-pad, note-pad, for keeping track of ideas ...etc
 
-**Use** [**Text files**](https://en.wikipedia.org/wiki/Text_file): for cases
+**Use** [**Text linked_files**](https://en.wikipedia.org/wiki/Text_file): for cases
 where you are interested in simplicity of form and content and you don't care
 too much about visual appearance and presentation.
 
-As a simple rule, always start with raw **text-files **by default. If you feel
+As a simple rule, always start with raw **text-linked_files **by default. If you feel
 you need more,  you can always copy and paste to other formats later on.
 
 ## For Short Readmes or Prose to Publish on the Web
@@ -89,3 +89,5 @@ about 1GB just to be able to start working with it locally.
 Hope this helps,
 
 Did I miss anything? leave your comments below,
+
+{% include issues_comments.md %}

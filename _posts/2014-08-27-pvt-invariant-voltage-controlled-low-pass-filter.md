@@ -15,17 +15,19 @@ interfacing. More details can be found in the design report
 
 Here is the design report for the project:
 
-[PVT Invariant Voltage Controlled Low Pass Filter](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_1.pdf)
+[PVT Invariant Voltage Controlled Low Pass Filter](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_1.pdf)
 
 Here is the code for the ATMEGA 328 uController (.ino source code): 
 
-[Lab 3 Source Code](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_2.ino)
+[Lab 3 Source Code](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_2.ino)
 
 [Here is a video](https://youtu.be/Pdd09ADTbhs)
 
 And some neat pictures taken of the complete circuit.
 
-![Circuit Picture 1](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_3.jpg)
-![Circuit 2](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_4.jpg)
-![Circuit 3](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_5.jpg)
-![Circuit w.  ISP](/assets/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_6.jpg)
+![Circuit Picture 1](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_3.jpg)
+![Circuit 2](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_4.jpg)
+![Circuit 3](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_5.jpg)
+![Circuit w.  ISP](/linked_files/2014-08-27-pvt-invariant-voltage-controlled-low-pass-filter_6.jpg)
+
+{% include issues_comments.md %}

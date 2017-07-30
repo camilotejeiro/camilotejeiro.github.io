@@ -15,6 +15,8 @@ transconductance amplifiers or OTA's (refer to intuitive OTA's) and was designed
 to be a 12th order butterworth gm-c low pass filter. Here is the design report
 just in case you want to follow a similar approach.
 
-[Voltage Controlled Low Pass Filter Analog Design](/assets/2014-08-27-voltage-controlled-low-pass-filter-analog-design_1.pdf)
+[Voltage Controlled Low Pass Filter Analog Design](/linked_files/2014-08-27-voltage-controlled-low-pass-filter-analog-design_1.pdf)
 
 Pictures of this circuit can be found in the next project.
+
+{% include issues_comments.md %}

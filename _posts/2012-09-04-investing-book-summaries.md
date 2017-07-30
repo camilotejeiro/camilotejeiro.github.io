@@ -15,3 +15,5 @@ there, plus the writing and formatting is a bit disorganized.
 [The Interpretation of Financial Statements](https://github.com/camilotejeiro/book_learning_notes/blob/master/the_interpretation_of_financial_statements-ben_graham.pdf)
 
 Hope it helps someone, or inspire them to read the books.
+
+{% include issues_comments.md %}

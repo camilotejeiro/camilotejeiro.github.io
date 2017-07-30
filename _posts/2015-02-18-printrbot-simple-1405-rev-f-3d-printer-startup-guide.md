@@ -50,7 +50,7 @@ your auto leveling probe.
 
 Test your calibration by printing the small calibration cube STL file:
 
-[STL file](/assets/2015-02-18-printrbot-simple-1405-rev-f-3d-printer-startup-guide_1.stl)
+[STL file](/linked_files/2015-02-18-printrbot-simple-1405-rev-f-3d-printer-startup-guide_1.stl)
 
 * Once you have your auto leveling probe calibrated you need to go over the 
 settings for the slicers (Cura or Slic3r); Slicers are the ones that break 
@@ -61,7 +61,7 @@ sure you understand what each setting means (see the bottom of this post).
 You can use the 
 [following file as a good starting point for Cura.](https://github.com/Osohm/water_filtration_system/tree/master/freecad/stackable_canister_filter/slicers/curaengine) 
 
-And the [following files as a good starting point for Slic3r](https://github.com/Osohm/water_filtration_system/tree/master/freecad/stackable_canister_filter/slicers/slic3r)
+And the [following linked_files as a good starting point for Slic3r](https://github.com/Osohm/water_filtration_system/tree/master/freecad/stackable_canister_filter/slicers/slic3r)
 
 Then do a few quick prints using the 5mm calibration cube with steps to test the
 quality of your print, play with the settings until you get the quality and
@@ -69,7 +69,7 @@ speed you desire.
 
 [5mm calibration cube](http://www.thingiverse.com/thing:24238)
 
-Here are some of the settings you will find in these files and how they
+Here are some of the settings you will find in these linked_files and how they
 translate in simple language.
 
 **Layer Height** This is the thickness of each layer as it is printed, a lower
@@ -150,6 +150,8 @@ In order from top to bottom, left to right: calibration cube, calibration steps,
 structure 15% infill density (40 mins), structure 20% infill density (45 mins),
 structure 100% infill density (1hr:20mins)
 
-![Some of my 3D printed parts.](/assets/2015-02-18-printrbot-simple-1405-rev-f-3d-printer-startup-guide_2.jpg)
+![Some of my 3D printed parts.](/linked_files/2015-02-18-printrbot-simple-1405-rev-f-3d-printer-startup-guide_2.jpg)
 
 Happy printing :)
+
+{% include issues_comments.md %}

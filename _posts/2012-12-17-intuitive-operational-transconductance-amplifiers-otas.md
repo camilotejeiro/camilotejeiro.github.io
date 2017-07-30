@@ -8,3 +8,5 @@ watching this video, you will have a more clear understanding of how OTA’s wor
 Take a look, put the video in high resolution for better results!
 
 [OTA's Video](https://youtu.be/oD8tZyJaQrI)
+
+{% include issues_comments.md %}

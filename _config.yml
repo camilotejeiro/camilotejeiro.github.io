@@ -1,13 +1,13 @@
 # Site properties 
-title: Camilo Tejeiro -- Nurture the Joy of Learning
+title: Nurture the Joy of Learning 
 author: Camilo Tejeiro
 email: camilo.tejeiro@gmail.com
 description: Hardware Electrical Engineer 
-# twitter_username: camilotejeiro
+twitter_username: camilotejeiro
 github_username:  camilotejeiro
 
 # Build settings
-markdown: kramdown
+markdown: kramdown 
 theme: minima
 gems:
     - jekyll-feed
@@ -15,9 +15,8 @@ gems:
 # Default YAML Front Matter Values
 defaults:
   -
-    scope:
+    scope: 
         path: "_posts" 
     values:
         layout: "post"
-
 

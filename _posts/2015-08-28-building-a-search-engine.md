@@ -50,3 +50,5 @@ interesting projects.
 3. [Nutch1-Solr5 Integration, Searching the Web.]({% post_url 2015-08-28-nutch1-solr5-integration-searching-the-web %})
 
 Have fun searching, enjoy and share :)
+
+{% include issues_comments.md %}
