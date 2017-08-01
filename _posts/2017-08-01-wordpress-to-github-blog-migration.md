@@ -1,5 +1,5 @@
 ---
-title: Wordpress to Github Pages Blog Migration
+title: Wordpress to GitHub Pages Blog Migration
 ---
 
 For so long, I have been meaning to make my blog completely static (plain old
