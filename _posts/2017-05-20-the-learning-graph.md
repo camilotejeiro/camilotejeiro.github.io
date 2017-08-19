@@ -13,4 +13,6 @@ empirical of course):
 
 ![the learning graph](/linked_files/2017-05-20-the-learning-graph_1.png)
 
+![svg test](/linked_files/example.svg)
+
 {% include issues_comments.md %}
