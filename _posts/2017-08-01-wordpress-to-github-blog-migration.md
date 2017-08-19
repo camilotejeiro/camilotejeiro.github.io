@@ -32,7 +32,7 @@ GitHub pages:
 
 * Download the [Exitwp tool](https://github.com/thomasf/exitwp) 
     created by Thomas Frössman (Thank you).
-    - I tried several tool, this one worked the best for me.
+    - I tried several tools, this one worked the best for me.
     - Follow the tool instructions.
 
 * Import data using the Exitwp tool.
