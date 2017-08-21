@@ -3,7 +3,7 @@ title: Open tools for circuit design - Learning QUCS, KiCad and Freecad
 ---
 
 The Wah Pedal 
-=============
+-------------
 
 Not so long ago a friend showed me a little circuit which I thought was quite
 interesting ([The Wah Pedal](http://www.geofex.com/article_folders/wahpedl/wahped.htm)), 
