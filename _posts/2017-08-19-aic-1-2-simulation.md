@@ -264,7 +264,6 @@ actually does in our simulations are in agreement -- that's a good thing.
 ~~~
 Common-Emitter Amplifier Simulation 
 
-* .INCLUDE ce_amplifier_simulation_properties.spice 
 .INCLUDE ce_amplifier_simulation_netlist.spice
 
 * Circuit Elements: Simulation Sources.
