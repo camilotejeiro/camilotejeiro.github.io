@@ -6,13 +6,13 @@ title: 'AIC-1.2: Simulation -- SPICE Simulations with NGSPICE'
 
 ### Schematic Diagram
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_1.svg)
+![Common Emitter Amplifier Schematic](/linked_files/2017-08-19-aic-1-2-simulation_1.svg)
 
 ### SPICE Simulations 
 
-#### Operating point
+#### Operating point Analysis
 
-Operating point analysis: Calculating DC voltages (bias voltages) at every node 
+Here, we are calculating DC voltages (bias voltages) at every node 
 under no input source.
 
 i.e. DC analysis with Vin = 0V (capacitors opened, inductors shorted).
@@ -37,7 +37,7 @@ n2         1.29397
 (n1-n2)    .780638
 ~~~
 
-_note a DC operating point analysis is always performed before transient or 
+_Note a DC operating point analysis is always performed before transient or 
 AC analyses, thus we did not really need to perform this analysis excplicitly,
 it was done for instructional/learning purposes._
 
@@ -61,7 +61,7 @@ TRAN 10nS 2mS
 gnuplot $filename n_out n_in n1 title $title xlabel $xlabel ylabel $ylabel 
 ~~~
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_2.svg)
+![Common Emitter Amplifier Simulation Transient](/linked_files/2017-08-19-aic-1-2-simulation_2.svg)
 
 #### DC Analysis
 
@@ -81,7 +81,7 @@ DC V1 0 12 0.1
 gnuplot $filename n_out title $title xlabel $xlabel ylabel $ylabel 
 ~~~
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_3.svg)
+![Common Emitter Amplifier Simulation DC Analysis](/linked_files/2017-08-19-aic-1-2-simulation_3.svg)
 
 #### AC Analysis
 
@@ -114,13 +114,13 @@ gnuplot $filename db(n_out/n_in) title $title xlabel $xlabel ylabel $ylabel
 gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $ylabel 
 ~~~
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_4.svg)
+![Common Emitter Amplifier Simulation AC Magnitude Linear](/linked_files/2017-08-19-aic-1-2-simulation_4.svg)
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_5.svg)
+![Common Emitter Amplifier Simulation AC Magnitude dB](/linked_files/2017-08-19-aic-1-2-simulation_5.svg)
 
-![Common Emitter Amplifier](/linked_files/2017-08-19-aic-1-2-simulation_6.svg)
+![Common Emitter Amplifier Simulation AC Phase](/linked_files/2017-08-19-aic-1-2-simulation_6.svg)
 
-### Circuit Analysis (just for a quick sanity check)
+### Circuit Analysis (quick sanity check)
 
 Let's start with a quick qualitative analysis, from the circuit topology we
 should expect:
