@@ -122,11 +122,11 @@ gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $y
 
 ### Circuit Analysis (quick sanity check)
 
-Let's start with a quick qualitative analysis, from the circuit topology we
+Let's start with a quick qualitative analysis. From a Common-emitter Amplifier circuit topology we
 should expect:
 
 * We have an AC coupled input to the CE amplifier, thus we should
-    expect a signal shifted "up" from 0V to the voltage at n_1 (our vias voltage
+    expect a signal shifted "up" from 0V to the voltage at n_1 (our bias voltage
     for Q1, more on this later).
     > Check.
 
@@ -138,7 +138,7 @@ should expect:
 
 * As we sweep our supply voltage from 0 to 12V. Initially our transistor is OFF, 
     there should be no current flow (our transistor is an "open" at this
-    point) and we should expect to see the our output voltage tracking our supply
+    point) and we should expect to see our output voltage tracking our supply
     voltage (at least until our transistor turns ON, more on this later).
     > OK, we can see this in our DC sweep plot: a 1 to 1 slope initially,
     > check.
@@ -159,7 +159,7 @@ quite, minus a little bit due to our base current, but more on this later)
 
 ~~~
 Vn_1 = 12V * (R2 / (R1 + R2))
-     = 12V * (24 / 124) 
+     = 12V * (24KR / 124KR) 
      = 12V * 0.193 
      = 2.32V 
 ~~~
@@ -173,7 +173,7 @@ Vn_2 = Vn_1 - 0.65V
      = 1.67V
 ~~~
 
-Now given our emitter resistor R4, we can calculate our current through the
+Now given our emitter resistor R4, we can calculate the current through our
 transistor (collector to emitter) and R3, mainly: 
 
 ~~~
@@ -193,7 +193,7 @@ I_qb = I_qc / beta
      = 16.73uA
 ~~~
 
-Now this will reduce our bias voltage at n_1 a little bit, given our branch
+Now this will reduce our bias voltage at n_1 a little bit. Given our branch
 current through R1 and R2 of:
 
 ~~~
@@ -219,7 +219,7 @@ Vn_1 = I_r2 * R2
 ~~~
 
 Now, we can repeat the process to calculate our emitter voltage (at n_2), and
-collector current:
+our collector current:
 
 ~~~
 Vn_2 = Vn_1 - 0.65V
@@ -233,8 +233,8 @@ I_qc = Vn_2 / R4
      = 1.27mA
 ~~~
 
-And given our collector current we can calculate the voltage drop through R3,
-i.e. our output voltage Vn_out:
+And given our collector current we can calculate the voltage drop through R3 and 
+our output voltage Vn_out:
 
 ~~~
 Vn_out = 12V - (I_qc * R3)
@@ -253,8 +253,8 @@ Vn_2   = 1.27V
 
 And these figures are rather close for our purposes. 
 
-Thus our analysis of what the circuit should do and what the circuit 
-actually does in our simulations are in agreement -- that's a good thing.
+**Thus our analyses of what the circuit should do and what the circuit 
+actually does in our simulation are in agreement -- that's a good thing.**
 
 
 ### Source code
@@ -377,6 +377,10 @@ R4      n2    0         1KR
 .MODEL generic  NPN
 ~~~
 
-### References
+### References and Notes
 
-[NGSPICE User Manual Chapter 21.1 -- Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
+* [NGSPICE User Manual Chapter 21.1 -- Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
+* Schematic drawn with Eeschema (Kicad)
+* Plot print-outs done with Gnuplot
+* Scalable Vector Graphics (SVG) done with Inkscape
+* AIC-1 Lab 2 files.
