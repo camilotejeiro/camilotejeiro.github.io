@@ -49,8 +49,8 @@ The transient analysis was performed over a time-length of 2mS (tstop) with step
 An AC voltage source was used as the input signal: simple sinusoid with 0V offset, 
 1Vpeak amplitude and 1KHz frequency.
 
-We are plotting the output voltage at "net out" (n_out), the input voltage at
-"net in" (n_in), and the voltage at "net1" (n1) after AC coupling.
+We are plotting the output voltage at "net out" (n\_out), the input voltage at
+"net in" (n\_in), and the voltage at "net1" (n1) after AC coupling.
 
 Relevant source code lines:
 ~~~
@@ -71,7 +71,7 @@ power supply variations (over a DC sweep).
 We are applying a DC sweep to our supply voltage (V1) from 0 to 12V in 0.1V
 increments. 
 
-We are plotting the DC output voltage at "net out" (n_out) vs supply voltage
+We are plotting the DC output voltage at "net out" (n\_out) vs supply voltage
 (V1).
 
 Relevant source code lines:
@@ -126,7 +126,7 @@ Let's start with a quick qualitative analysis. From a Common-emitter Amplifier c
 should expect:
 
 * We have an AC coupled input to the CE amplifier, thus we should
-    expect a signal shifted "up" from 0V to the voltage at n_1 (our bias voltage
+    expect a signal shifted "up" from 0V to the voltage at n\_1 (our bias voltage
     for Q1, more on this later).
     > Check.
 
@@ -154,7 +154,7 @@ OK, From a very quick qualitative analysis, our intuition agrees with our
 simulation results, but let's calculate our node voltages at Vin = 0V just to make 
 sure our operating point results are correct.  
 
-Our base voltage (i.e. the voltage at n_1) is just a voltage divider (not
+Our base voltage (i.e. the voltage at n\_1) is just a voltage divider (not
 quite, minus a little bit due to our base current, but more on this later)
 
 ~~~
@@ -164,7 +164,7 @@ Vn_1 = 12V * (R2 / (R1 + R2))
      = 2.32V 
 ~~~
 
-Our emitter voltage (i.e. n_2), should be our base voltage minus about ~0.65V,
+Our emitter voltage (i.e. n\_2), should be our base voltage minus about ~0.65V,
 i.e:
 
 ~~~
@@ -193,7 +193,7 @@ I_qb = I_qc / beta
      = 16.73uA
 ~~~
 
-Now this will reduce our bias voltage at n_1 a little bit. Given our branch
+Now this will reduce our bias voltage at n\_1 a little bit. Given our branch
 current through R1 and R2 of:
 
 ~~~
@@ -210,7 +210,7 @@ I_r2 = 96.77uA - 16.73uA
      = 80.05uA
 ~~~
 
-And a bias voltage at the base (i.e. at n_1):
+And a bias voltage at the base (i.e. at n\_1):
 
 ~~~
 Vn_1 = I_r2 * R2
@@ -218,7 +218,7 @@ Vn_1 = I_r2 * R2
      = 1.92V
 ~~~
 
-Now, we can repeat the process to calculate our emitter voltage (at n_2), and
+Now, we can repeat the process to calculate our emitter voltage (at n\_2), and
 our collector current:
 
 ~~~
@@ -234,7 +234,7 @@ I_qc = Vn_2 / R4
 ~~~
 
 And given our collector current we can calculate the voltage drop through R3 and 
-our output voltage Vn_out:
+our output voltage Vn\_out:
 
 ~~~
 Vn_out = 12V - (I_qc * R3)
@@ -259,7 +259,7 @@ actually does in our simulation are in agreement -- that's a good thing.**
 
 ### Source code
 
-**ce_amplifier_simulation_testbench.spice**
+**ce\_amplifier\_simulation\_testbench.spice**
 
 ~~~
 Common-Emitter Amplifier Simulation 
@@ -346,7 +346,7 @@ write $filename
 .ENDC
 ~~~
 
-**ce_amplifier_simulation_netlist.spice**
+**ce\_amplifier\_simulation\_netlist.spice**
 
 ~~~
 * Common-Emitter Amplifier Netlist
@@ -367,7 +367,7 @@ R4      n2    0         1KR
 .END
 ~~~
 
-**ce_amplifier_simulations_models.spice**
+**ce\_amplifier\_simulations\_models.spice**
 
 ~~~
 * Device Models
@@ -379,10 +379,12 @@ R4      n2    0         1KR
 
 ### References and Notes
 
-* [NGSPICE User Manual Chapter 21.1 -- Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
-* Schematic drawn with Eeschema (Kicad)
-* Plot print-outs done with Gnuplot
-* Scalable Vector Graphics (SVG) done with Inkscape
-* AIC-1 Lab 2 files.
+* AIC-1 Lab 2 [files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
+* NGSPICE User Manual Chapter 21.1 -- [Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
+* Schematic drawn with [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema)
+* Plot print-outs done with [Gnuplot](http://www.gnuplot.info)
+    - Interactive plotting during simulation with built-in plot command 
+        (i.e.  Ngnutmeg)
+* Scalable Vector Graphics (SVG) done with [Inkscape](https://inkscape.org/en)
 
 {% include issues_comments.md %}
