@@ -384,3 +384,5 @@ R4      n2    0         1KR
 * Plot print-outs done with Gnuplot
 * Scalable Vector Graphics (SVG) done with Inkscape
 * AIC-1 Lab 2 files.
+
+{% include issues_comments.md %}
