@@ -17,3 +17,6 @@ I am a **Hardware Electrical Engineer**, here is my professional profile:
 I am always working on different projects and exploring new interesting 
 ideas. If you have any questions, drop me a note at the address below.
 
+The content on this blog is licensed under a 
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0)
+
