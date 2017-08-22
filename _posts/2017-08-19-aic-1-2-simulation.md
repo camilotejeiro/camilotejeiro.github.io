@@ -151,7 +151,7 @@ should expect:
     > Check and check.
 
 OK, From a very quick qualitative analysis, our intuition agrees with our
-simulation results, but let's calculate our node voltages at Vin=0 just to make 
+simulation results, but let's calculate our node voltages at Vin = 0V just to make 
 sure our operating point results are correct.  
 
 Our base voltage (i.e. the voltage at n_1) is just a voltage divider (not
