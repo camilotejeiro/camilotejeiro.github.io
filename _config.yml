@@ -7,9 +7,9 @@ twitter_username: camilotejeiro
 github_username:  camilotejeiro
 
 # Build settings
-markdown: kramdown 
+markdown: CommonMark
 theme: minima
-gems:
+plugins:
     - jekyll-feed
 
 # Default YAML Front Matter Values
