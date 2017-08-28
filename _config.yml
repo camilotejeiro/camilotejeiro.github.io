@@ -7,7 +7,7 @@ twitter_username: camilotejeiro
 github_username:  camilotejeiro
 
 # Build settings
-markdown: CommonMark
+markdown: kramdown
 theme: minima
 plugins:
     - jekyll-feed
