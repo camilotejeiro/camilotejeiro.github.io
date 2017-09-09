@@ -57,7 +57,7 @@ gnuplot $filename (v2#branch*-1e+06) ylimit $ylow $yhigh title $title xlabel $xl
 
 ![Widlar Current Mirror Simulation DC](/linked_files/2017-09-09-aic-1-3-1-widlar-current-mirror_2.svg)
 
-## Circuit Analysis 
+## Circuit Description 
 
 Lab report in progress.
 
