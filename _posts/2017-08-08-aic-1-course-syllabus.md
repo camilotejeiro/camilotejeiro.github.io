@@ -5,10 +5,19 @@ title: 'AIC-1: Analog Integrated Circuits 1 -- Course Syllabus'
 Course Description
 ------------------
 
-* **Class Objective:** Achieving familiarity with common analog IC topologies
+* **Class Objective:** Gaining familiarity with common analog IC topologies
     through SPICE simulation analyses.
 
-* **Class Reference Textbook:** Designing Analog Chips (Hans Camenzind)
+**This is not intended to be an in-depth analysis of specific circuits, 
+this material will be covered in AIC-2.** 
+
+The whole purpose of this class is to gain familiarity, experience and 
+ultimately intuition for the operation of common analog IC topologies. 
+
+This is essential knowledge required to put our future circuit analyses in 
+context.
+
+* **Class Reference Textbook:** [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
 
 Lab Assignments Reports
 ----------------------
@@ -70,13 +79,6 @@ Class Syllabus
     + Assignments: Gain familiarity with IC design layout techniques for next 
         AIC-2 course (See course description in I&P file). 
 
-Notes: 
-
-* Before the beginning of every chapter it is important to read about the
-    historical context for the invention of the circuit topologies you will be
-    covering, and subsequently gain a quantitative and qualitative
-    understanding of the circuit.
-
 ---
 
 Lab Report Example Structure <a name="lab-report-example-section">
@@ -110,18 +112,14 @@ examples:
 
 #### AC Analysis
 
-### Circuit Analysis
+### Circuit Description
 
-**You need to research, write-down and understand the topology in detail 
-(reference books, online sources ...etc).** Take at least a day to do this 
-(with pen and paper). Then, describe the following in your report:
+This is a general overview of the circuit topology and explanation of the results,
+based on the textbook reference. 
 
-* Context of circuit (background, brief history and why/how was/is it useful)
-
-* Quantitative analysis: derivation of circuit results.
-
-* Qualitative/intuitive analysis: describe in your own words how the circuit
-    works.
+You need to read the respective chapter in the book and understand how the
+circuit works, then in this section of the report you should describe **in your
+own words** the operation of the circuit. 
 
 ### Source Code
 

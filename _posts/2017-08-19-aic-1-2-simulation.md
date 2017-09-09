@@ -120,7 +120,7 @@ gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $y
 
 ![Common Emitter Amplifier Simulation AC Phase](/linked_files/2017-08-19-aic-1-2-simulation_6.svg)
 
-### Circuit Analysis (quick sanity check)
+### Circuit Description (mostly a sanity check)
 
 Let's start with a quick qualitative analysis. From a Common-emitter Amplifier circuit topology we
 should expect:
