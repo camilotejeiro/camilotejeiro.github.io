@@ -81,7 +81,7 @@ DC V1 0 12 0.1
 gnuplot $filename n_out title $title xlabel $xlabel ylabel $ylabel 
 ~~~
 
-![Common Emitter Amplifier Simulation DC Analysis](/linked_files/2017-08-19-aic-1-2-simulation_3.svg)
+![Common Emitter Amplifier Simulation DC](/linked_files/2017-08-19-aic-1-2-simulation_3.svg)
 
 #### AC Analysis
 
@@ -379,12 +379,13 @@ R4      n2    0         1KR
 
 ### References and Notes
 
-* AIC-1 Lab 2 [files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
-* NGSPICE User Manual Chapter 21.1 -- [Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
+* AIC-1 lab 2 [files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
+* NGSPICE user manual chapter 21.1 -- [Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
 * Schematic drawn with [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema)
 * Plot print-outs done with [Gnuplot](http://www.gnuplot.info)
     - Interactive plotting during simulation with built-in plot command 
         (i.e.  Ngnutmeg)
 * Scalable Vector Graphics (SVG) done with [Inkscape](https://inkscape.org/en)
+* Next lab 3.1 report: [The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
 
 {% include issues_comments.md %}

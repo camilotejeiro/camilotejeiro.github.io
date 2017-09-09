@@ -112,11 +112,16 @@ examples:
 
 ### Circuit Analysis
 
+**You need to research, write-down and understand the topology in detail 
+(reference books, online sources ...etc).** Take at least a day to do this 
+(with pen and paper). Then, describe the following in your report:
+
 * Context of circuit (background, brief history and why/how was/is it useful)
 
-* Quantitative analysis
+* Quantitative analysis: derivation of circuit results.
 
-* Qualitative/intuitive analysis.
+* Qualitative/intuitive analysis: describe in your own words how the circuit
+    works.
 
 ### Source Code
 
