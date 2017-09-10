@@ -120,7 +120,7 @@ gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $y
 
 ![Common Emitter Amplifier Simulation AC Phase](/linked_files/2017-08-19-aic-1-2-simulation_6.svg)
 
-### Circuit Description (mostly a sanity check)
+### General Circuit Overview (mostly a sanity check)
 
 Let's start with a quick qualitative analysis. From a Common-emitter Amplifier circuit topology we
 should expect:
@@ -379,14 +379,12 @@ R4      n2    0         1KR
 
 ### References and Notes
 
+* NGSPICE User Manual chapter 21.1 (pages 377 - 382).
+
 * AIC-1 lab 2 [files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
-* NGSPICE user manual chapter 21.1 -- [Example Circuits](http://ngspice.sourceforge.net/docs/ngspice-manual.pdf)
-* Schematic drawn with [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema)
-* Plot print-outs done with [Gnuplot](http://www.gnuplot.info)
-    - Interactive plotting during simulation with built-in plot command 
-        (i.e.  Ngnutmeg)
-* Scalable Vector Graphics (SVG) done with [Inkscape](https://inkscape.org/en)
+
 * Next lab 3.1 report: [The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
+
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
 {% include issues_comments.md %}

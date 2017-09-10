@@ -1,14 +1,15 @@
 ---
 title: 'AIC-1: Analog Integrated Circuits 1 -- Course Syllabus' 
 ---
-_please note this syllabus is updated continuously to reflect progress in the
-course and update links to submitted lab reports_
+_Please note this syllabus is updated continuously to reflect progress in the
+course, and update references to submitted lab reports._
 
 Course Description
 ------------------
 
-* **Class objective:** Gaining familiarity with common analog IC topologies
-    through SPICE simulation analyses.
+### Class Objective
+
+Gaining familiarity with common analog IC topologies through SPICE simulation analyses.
 
 **Note this class is not intended to be an in-depth analysis of specific circuits, 
 this material will be covered in AIC-2.** 
@@ -16,12 +17,28 @@ this material will be covered in AIC-2.**
 The whole purpose of this class is to gain familiarity, experience and 
 ultimately intuition for the operation of common analog IC topologies. 
 
-This is essential knowledge required to put our future circuit analyses in 
-context (see AIC-2).
+This is essential knowledge required to put our results and future circuit 
+analyses in context (see AIC-2).
 
-* **Reference textbook:** [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
+### Reference Textbook
 
-* **SPICE simulation software:** [NGSPICE](http://ngspice.sourceforge.net/presentation.html)
+The textbook we will use for this class is:
+
+* [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
+
+### SPICE Simulation Software
+
+The circuit simulator we will use for this class is:
+
+* [NGSPICE](http://ngspice.sourceforge.net/presentation.html)
+
+The SPICE models device parameters we will use for this class are:
+
+* CMOS Devices ([NCSU CDK](https://www.eda.ncsu.edu/wiki/NCSU_CDK)): 
+    + 0.35uM Hewlett Packard GMOS10QA process
+    + 0.35uM TSMC\_CMOS035 process 
+
+* Bipolar Devices (reference textbook): 20V bipolar process.
 
 Lab Reports and Assignments
 ---------------------------
@@ -151,12 +168,20 @@ Here goes the SPICE code
 ### References and Notes
 
 Don't repeat references on each report, simply provide a link to the previous
-report and/or syllabus.
+report and syllabus.
 
 * [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
 
 * Reference textbook: [Designing Analog Chips -- Hans Camenzind](http://designinganalogchips.com/_count/designinganalogchips.pdf)
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 
+
+* Schematic to be drawn with [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema)
+
+* Plot print-outs to be done with [Gnuplot](http://www.gnuplot.info)
+    - Interactive plotting during simulation with built-in plot command 
+        (i.e.  Ngnutmeg)
+
+* Scalable Vector Graphics (SVG) to be done with [Inkscape](https://inkscape.org/en)
 
 {% include issues_comments.md %}
