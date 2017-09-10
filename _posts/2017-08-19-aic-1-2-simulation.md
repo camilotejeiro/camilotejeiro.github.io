@@ -2,7 +2,7 @@
 title: 'AIC-1.2: Simulation -- SPICE Simulations with NGSPICE'
 ---
 
-## 1. The Common-Emitter Amplifier
+## The Common-Emitter Amplifier
 
 ### Schematic Diagram
 
@@ -387,5 +387,6 @@ R4      n2    0         1KR
         (i.e.  Ngnutmeg)
 * Scalable Vector Graphics (SVG) done with [Inkscape](https://inkscape.org/en)
 * Next lab 3.1 report: [The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
 {% include issues_comments.md %}

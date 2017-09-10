@@ -1,59 +1,63 @@
 ---
 title: 'AIC-1: Analog Integrated Circuits 1 -- Course Syllabus' 
 ---
+_please note this syllabus is updated continuously to reflect progress in the
+course and update links to submitted lab reports_
 
 Course Description
 ------------------
 
-* **Class Objective:** Gaining familiarity with common analog IC topologies
+* **Class objective:** Gaining familiarity with common analog IC topologies
     through SPICE simulation analyses.
 
-**This is not intended to be an in-depth analysis of specific circuits, 
+**Note this class is not intended to be an in-depth analysis of specific circuits, 
 this material will be covered in AIC-2.** 
 
 The whole purpose of this class is to gain familiarity, experience and 
 ultimately intuition for the operation of common analog IC topologies. 
 
 This is essential knowledge required to put our future circuit analyses in 
-context.
+context (see AIC-2).
 
-* **Class Reference Textbook:** [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
+* **Reference textbook:** [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
 
-Lab Assignments Reports
-----------------------
+* **SPICE simulation software:** [NGSPICE](http://ngspice.sourceforge.net/presentation.html)
+
+Lab Reports and Assignments
+---------------------------
 
 * See the [lab report template below](#lab-report-example-section) for an 
-    example of what needs to be covered for every assignment report.
+    example of what needs to be covered for every lab report.
 
-* Unless otherwise noted: individual assignment reports need to be submitted for
-    every topology covered on each chapter.
+* Unless otherwise noted: individual lab reports need to be submitted for
+    every topology section covered on each chapter.
+
+### Reports Submission Timelines
+
+* Individual section lab reports should be submitted every two to four weeks.
+
+* All the required section lab reports for each chapter should be completed in 
+    a month or less. i.e. so that we are covering at least a chapter per month.
 
 Class Syllabus
 --------------
 
 * Chapter 1: Devices, history and intro to analog IC design.
-    + Assignment: None.
 
 * Chapter 2: Intro to AICs simulation -- SPICE.
-    + Assignments:
-        - AIC-1.2.1 (Report): SPICE Simulation with NGSPICE -- The CE amplifier
-            exercise.
-        - AIC-1.2.2: Real-world SPICE models and parameters for CMOS (MOSIS)
-            and bipolar semiconductor processes.
+    + [AIC-1.2: Simulation -- SPICE Simulations with NGSPICE]({% post_url 2017-08-19-aic-1-2-simulation %})
 
 * Chapter 3: Current Mirrors
-    + Assignments (reports): For every sub-topology on chapter, e.g:
-        - AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror
-        - AIC-1.4.1: Current Mirrors -- Lateral PNP Current Mirror
-        - ...etc.
+    + [AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
+    + AIC-1.4.1: Current Mirrors -- Lateral PNP Current Mirror
 
 * Chapter 4: Differential Pairs
 
 * Chapter 5: Current Sources
 
 * Chapter 6: Analog Measures
-    + Assignments: Understand analog measures used to assess the
-        operating characteristics and performance of circuits. 
+    Understand analog measures used to assess the operating characteristics 
+    and performance of circuits. 
 
 * Chapter 7: Bandgap References
 
@@ -112,14 +116,14 @@ examples:
 
 #### AC Analysis
 
-### Circuit Description
+### General Circuit Overview 
 
 This is a general overview of the circuit topology and explanation of the results,
 based on the textbook reference. 
 
 You need to read the respective chapter in the book and understand how the
 circuit works, then in this section of the report you should describe **in your
-own words** the operation of the circuit. 
+own words** the circuit and it's operation. 
 
 ### Source Code
 
@@ -144,11 +148,14 @@ Here goes the SPICE code
 ...
 ~~~
 
-### References
+### References and Notes
 
-* [Lab # Files](https://github.com/camilotejeiro/aic_1_lab)
+Don't repeat references on each report, simply provide a link to the previous
+report and/or syllabus.
 
-* Designing Analog Chips -- Hanz Camenzind: Chapter #.
+* [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
+
+* Reference textbook: [Designing Analog Chips -- Hans Camenzind](http://designinganalogchips.com/_count/designinganalogchips.pdf)
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 
 
