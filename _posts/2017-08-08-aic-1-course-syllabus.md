@@ -172,16 +172,19 @@ report and syllabus.
 
 * [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
 
-* Reference textbook: [Designing Analog Chips -- Hans Camenzind](http://designinganalogchips.com/_count/designinganalogchips.pdf)
+* [Reference textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf): 
+    Designing Analog Chips -- Hans Camenzind
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 
 
-* Schematic to be drawn with [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema)
+* [Eeschema (Kicad)](http://kicad-pcb.org/discover/eeschema) will be used to draw
+    schematic diagrams 
 
-* Plot print-outs to be done with [Gnuplot](http://www.gnuplot.info)
+* [Gnuplot](http://www.gnuplot.info) will be used for plot print-outs 
     - Interactive plotting during simulation with built-in plot command 
         (i.e.  Ngnutmeg)
 
-* Scalable Vector Graphics (SVG) to be done with [Inkscape](https://inkscape.org/en)
+* [Inkscape](https://inkscape.org/en) will be used for Scalable Vector Graphics 
+    (SVG) media 
 
 {% include issues_comments.md %}

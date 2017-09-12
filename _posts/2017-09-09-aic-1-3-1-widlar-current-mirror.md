@@ -80,6 +80,8 @@ errors:
     expect 1% of I1 to go to the base of Q1 and 1% to go to the base of Q2, for
     the worst case.
 
+    **Error (worst case)**: 2% of current source reference, or 1uA in our case.
+
 2. [The early effect](https://en.wikipedia.org/wiki/Early_effect) degrades the
     current matching performance of Q2 under different loads.
 
@@ -93,6 +95,11 @@ errors:
     current under different loads; We can see the extent of this error in our
     [DC analysis plot](#dc-analysis-section).
 
+    **Error measurement**: Variation of 48.8uA to 53uA over current mirror operating
+    region (roughly above 0.3V collector voltage). 
+    This is equivalent to an error of 4.2uA or 8.4% relative to our current 
+    reference. 
+       
 There are ways to compensate for these errors through the use of additional
 transistors. These will be explored in upcoming labs.
 
@@ -172,11 +179,12 @@ _SPICE model device parameters are referenced in the course syllabus_
 
 ### References and Notes
 
-* Reference textbook chapter 3 (pages 3-1 and 3-2).
+* Reference textbook chapter 3 (pages 3-1 and 3-2)
 
-* AIC-1 lab 3.1 [files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
+* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
 
-* Previous lab 2 report and references: [SPICE Simulations with NGSPICE]({% post_url 2017-08-19-aic-1-2-simulation %})
+* [Previous report]({% post_url 2017-08-19-aic-1-2-simulation %}).
+    Lab 2: Simulation -- SPICE Simulations with NGSPICE
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
