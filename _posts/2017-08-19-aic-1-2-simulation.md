@@ -256,126 +256,13 @@ And these figures are rather close for our purposes.
 **Thus our analyses of what the circuit should do and what the circuit 
 actually does in our simulation are in agreement -- that's a good thing.**
 
-
 ### Source code
 
-**ce\_amplifier\_simulation\_testbench.spice**
+* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_netlist.spice)
 
-~~~
-Common-Emitter Amplifier Simulation 
+* [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_testbench.spice)
 
-.INCLUDE ce_amplifier_simulation_netlist.spice
-
-* Circuit Elements: Simulation Sources.
-* V2: AC input source with sinusoid (0V offset, 1Vpeak amplitude and 1KHz frequency)		
-* dev   <nets>  <values>
-* -------------------------- 
-V2      n_in 0  dc 0 ac 1.0 sin(0 1 1KHz)
-
-* Interactive simulation main entry *
-* Note: which plotter are we using? 
-*   * plot (for quick interactive plots during simulation)
-*       - remember to remove filename from plot command (we are not writing a file) 
-*   * gnuplot (for pint-quality lab report plots)
-*       - remember to add a filename to gnuplot command (we are writing a file)
-.CONTROL
-
-* Make a directory for our output simulation files.
-shell mkdir -p results 
-* Generic prefix for our output files
-set generic_prefix = 'results/ce_amplifier_simulation'
-
-echo  '* Operating point analysis '
-
-OP                      
-print all               
-print (n1-n2)                   ; vbe bias point.
-
-echo '* Transient analysis '
-
-TRAN 10nS 2mS                   ; Parametters: tstep, tstop.
-
-set title = 'Transient Analysis' 
-set xlabel = 'Seconds (S)'
-set ylabel = 'Voltage (V)'
-set filename = {$generic_prefix}{'_transient_analysis'}
-gnuplot $filename n_out n_in n1 title $title xlabel $xlabel ylabel $ylabel 
-
-echo '* DC analysis'
-
-DC V1 0 12 0.1          ; Sweep vcc from 0v to 12v in 0.1v increments.
-
-set title = 'DC Analysis' 
-set xlabel = 'Supply Volage (V)'
-set ylabel = 'Output Voltage (V)'
-set filename = {$generic_prefix}{'_dc_analysis'}
-gnuplot $filename n_out title $title xlabel $xlabel ylabel $ylabel 
-
-echo '* AC analysis'
-
-AC dec 10 0.01Hz 1KHz  ; Parametters: dec(log sweep), 10 pts/dec, 0.01->100Hz 
-
-* Plot the Transfer Function (magnitude in linear scale).
-* Results are all Vpeak values centered around 0 (i.e. ac coupled).
-set title = 'AC Analysis: Transfer Function (Vout/Vin) Magnitude' 
-set xlabel = 'Frequency (Hz)'
-set ylabel = 'Magnitude (V/V)'
-set filename = {$generic_prefix}{'_ac_analysis_mag'}
-gnuplot $filename mag(n_out/n_in) title $title xlabel $xlabel ylabel $ylabel 
-
-* Plot the Transfer Function (magnitude in logarithmic dB scale)
-set title = 'AC Analysis: Transfer Function Magnitude (dB)' 
-set xlabel = 'Frequency (Hz)'
-set ylabel = 'Magnitude (dB)'
-set filename = {$generic_prefix}{'_ac_analysis_magdb'}
-gnuplot $filename db(n_out/n_in) title $title xlabel $xlabel ylabel $ylabel 
-
-* Plot the Transfer Function (Phase in degrees)
-set title = 'AC Analysis: Transfer Function Phase (Degrees)'
-set xlabel = 'Frequency (Hz)'
-set ylabel = 'Phase (+/-180 degrees scale)'
-set filename = {$generic_prefix}{'_ac_analysis_phase'}
-gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $ylabel 
-
-echo '* Writing all simulation data to a textfile'
-
-set filetype=ascii
-set filename = {$generic_prefix}{'_results.raw'}
-write $filename
-
-.ENDC
-~~~
-
-**ce\_amplifier\_simulation\_netlist.spice**
-
-~~~
-* Common-Emitter Amplifier Netlist
-
-.INCLUDE ce_amplifier_simulation_models.spice
-
-* Circuit Elements: Devices
-* dev   <nets>          <values>
-* ---------------------------------- 
-V1      n_pos 0         12V		
-C1      n_in  n1        10uF		
-R1      n_pos n1        100KR		
-R2      n1    0         24KR		
-Q1      n_out n1 n2     generic 
-R3      n_pos n_out     3.9KR		
-R4      n2    0         1KR		
-
-.END
-~~~
-
-**ce\_amplifier\_simulations\_models.spice**
-
-~~~
-* Device Models
-
-*      Name     Type(parameters) 
-* ------------------------------
-.MODEL generic  NPN
-~~~
+* [SPICE Simulation Models](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_models.spice)
 
 ### References and Notes
 

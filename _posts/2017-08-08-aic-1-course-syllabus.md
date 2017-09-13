@@ -66,7 +66,7 @@ Class Syllabus
 
 * Chapter 3: Current Mirrors
     + [AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
-    + AIC-1.4.1: Current Mirrors -- Lateral PNP Current Mirror
+    + [AIC-1.3.2: Current Mirrors -- Lateral PNP Current Mirror]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
 
 * Chapter 4: Differential Pairs
 
@@ -144,26 +144,10 @@ own words** the circuit and it's operation.
 
 ### Source Code
 
-**simulation\_testbench.spice**
+**Preferably** you should provide the individual links to the source code files used
+for the circuit simulation in this section. 
 
-~~~
-Here goes the SPICE code
-...
-~~~
-
-**netlist.spice**
-
-~~~
-Here goes the SPICE code
-...
-~~~
-
-**models.spice**
-
-~~~
-Here goes the SPICE code
-...
-~~~
+Alternatively, you can provide the source code in this section verbatim.
 
 ### References and Notes
 
