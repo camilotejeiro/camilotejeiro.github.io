@@ -58,7 +58,35 @@ gnuplot $filename (v2#branch*1e+06) ylimit $ylow $yhigh title $title xlabel $xla
 
 ## General Circuit Overview
 
-_Lab report in progress_
+One of the few advantages of lateral PNP transistors (see reference textbook
+page 1-22) is that you can split the collector of the device into multiple
+sections and achieve excellent matching between collector currents (albeit at
+small currents only): thus the appropriate use of this device in a current
+mirror topology.
+
+In the circuit above, Q1 is the split-collector lateral PNP transistor. I1
+biases the transistor and stablishes a "diode" voltage drop from emitter to base
+(V_eb), the emitter current is then divided "identically" into two branches. (due
+to the split collector layout). However, there are two errors:
+
+1. There is a large collector current variation with changes in collector
+    voltage (due to the early effect), moreover the effect is more pronounced
+    for the lateral PNP current mirror than it was for the Widlar current
+    mirror, mainly:
+
+    **Error measurement**: Variation of 53.5uA to 47.5uA over current mirror 
+    operating region (below 4.7V collector voltage).
+    This is equivalent to an error of 6uA or 12% relative to our current 
+    reference. 
+     
+2. The second error (due to the use of a lateral PNP transistor) has to do with
+    substrate currents (There is a competing PNP transistor: emitter, base, substrate). 
+    During normal operation a current about half the base current flows from
+    emitter to substrate and under saturation the current increases to be almost
+    the same as that of the collector.
+
+    In the [graph above](#dc-analysis-section), this happens at a collector
+    voltage of 4.7V or about 0.3V from the 5V positive supply. 
 
 ### Source code
 

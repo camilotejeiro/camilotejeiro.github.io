@@ -43,6 +43,9 @@ The SPICE models device parameters we will use for this class are:
 Lab Reports and Assignments
 ---------------------------
 
+* Every chapter must be read completely before the start of any individual lab
+    report.  
+
 * See the [lab report template below](#lab-report-example-section) for an 
     example of what needs to be covered for every lab report.
 
@@ -52,6 +55,7 @@ Lab Reports and Assignments
 ### Reports Submission Timelines
 
 * Individual section lab reports should be submitted every two to four weeks.
+    (depending on the complexity of the circuit topology)
 
 * All the required section lab reports for each chapter should be completed in 
     a month or less. i.e. so that we are covering at least a chapter per month.
