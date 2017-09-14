@@ -40,17 +40,36 @@ The SPICE models device parameters we will use for this class are:
 
 * Bipolar Devices (reference textbook): 20V bipolar process.
 
-Lab Reports and Assignments
+Assignments and Lab Reports
 ---------------------------
 
-* Every chapter must be read completely before the start of any individual lab
-    report.  
+### Assignments (to be done first)
+
+Remember: every chapter must be read completely and every section (where
+    circuits are covered) must be understood and explained in your lab notebook, 
+    before the start of any individual lab report. 
+    Specifically:
+
+* Read textbook chapter
+    - Define lab sections
+
+* Focus on individual sections (only if circuit topologies are covered)
+    a. Understand each individual circuit topology (for each section)
+    b. Write up (in lab notebook) circuit overview and explanation of 
+        results for each section
+
+### Lab Reports (only necessary if circuit topologies are covered)
 
 * See the [lab report template below](#lab-report-example-section) for an 
     example of what needs to be covered for every lab report.
 
 * Unless otherwise noted: individual lab reports need to be submitted for
     every topology section covered on each chapter.
+
+* Remember to update the "explanation of results" section to account for your 
+    own simulation results.
+    + If there are significant differences, make sure to explain them in your
+        report.
 
 ### Reports Submission Timelines
 
@@ -137,7 +156,7 @@ examples:
 
 #### AC Analysis
 
-### General Circuit Overview 
+### Explanation of Results
 
 This is a general overview of the circuit topology and explanation of the results,
 based on the textbook reference. 
@@ -160,8 +179,8 @@ report and syllabus.
 
 * [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
 
-* [Reference textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf): 
-    Designing Analog Chips -- Hans Camenzind
+* [Reference textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf) 
+    - Designing Analog Chips -- Hans Camenzind
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 
 

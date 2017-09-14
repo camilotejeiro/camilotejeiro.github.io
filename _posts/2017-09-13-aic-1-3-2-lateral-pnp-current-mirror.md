@@ -56,7 +56,7 @@ gnuplot $filename (v2#branch*1e+06) ylimit $ylow $yhigh title $title xlabel $xla
 
 ![Lateral PNP Current Mirror Simulation DC](/linked_files/2017-09-13-aic-1-3-2-lateral-pnp-current-mirror_2.svg)
 
-## General Circuit Overview
+## Explanation of Results
 
 One of the few advantages of lateral PNP transistors (see reference textbook
 page 1-22) is that you can split the collector of the device into multiple
@@ -88,6 +88,12 @@ to the split collector layout). However, there are two errors:
     In the [graph above](#dc-analysis-section), this happens at a collector
     voltage of 4.7V or about 0.3V from the 5V positive supply. 
 
+### Figures of Merit
+
+* **Output Resistance**: 783.3 KR
+
+* **Compliance Voltage**: 0.3 V (from positive supply)
+
 ### Source code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/2_lateral_pnp_current_mirror/lateral_pnp_current_mirror_simulation_netlist.spice)
@@ -96,13 +102,12 @@ to the split collector layout). However, there are two errors:
 
 ### References and Notes
 
-* Reference textbook chapter 3 (page 3-2)
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
+    - Reference textbook chapter 3 (page 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/2_lateral_pnp_current_mirror)
 
-* [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %}).
-    Lab 3.1: Current Mirrors -- The Widlar Current Mirror
-
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
+* [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
+    - Lab 3.1: Current Mirrors -- The Widlar Current Mirror
 
 {% include issues_comments.md %}
