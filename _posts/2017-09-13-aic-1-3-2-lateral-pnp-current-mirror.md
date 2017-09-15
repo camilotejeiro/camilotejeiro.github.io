@@ -90,7 +90,7 @@ to the split collector layout). However, there are two errors:
 
 ### Figures of Merit
 
-* **Output Resistance**: 783.3 KR
+* **Output Resistance**: 783.3 KR (from 0 to 4.7V range)
 
 * **Compliance Voltage**: 0.3 V (from positive supply)
 
@@ -109,5 +109,8 @@ to the split collector layout). However, there are two errors:
 
 * [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
     + Lab 3.1: Current Mirrors -- The Widlar Current Mirror
+
+* [Next report]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
+    + Lab 3.3: Current Mirrors -- Simple MOS Current Mirror
 
 {% include issues_comments.md %}

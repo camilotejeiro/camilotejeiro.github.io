@@ -4,7 +4,7 @@ title: 'AIC-1: Analog Integrated Circuits 1 -- Course Syllabus'
 _Please note this syllabus is updated continuously to reflect progress in the
 course, and update references to submitted lab reports._
 
-Course Description
+Course Description 
 ------------------
 
 ### Class Objective
@@ -59,7 +59,7 @@ Remember: every chapter must be read completely and each section must be
 
 ### Lab Reports (only necessary if circuit topologies are covered)
 
-* See the [lab report template below](#lab-report-example-section) for an 
+* See the [lab report template below](#h2-lab-report-example-structure) for an 
     example of what needs to be covered for every lab report.
 
 * Unless otherwise noted: individual lab reports need to be submitted for
@@ -83,12 +83,13 @@ Class Schedule
 
 * Chapter 1: Devices, history and intro to analog IC design.
 
-* Chapter 2: Intro to AICs simulation -- SPICE.
+* Chapter 2: Intro to AICs simulation -- SPICE
     + [AIC-1.2: Simulation -- SPICE Simulations with NGSPICE]({% post_url 2017-08-19-aic-1-2-simulation %})
 
 * Chapter 3: Current Mirrors
     + [AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
     + [AIC-1.3.2: Current Mirrors -- Lateral PNP Current Mirror]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
+    + [AIC-1.3.3: Current Mirrors -- Simple MOS Current Mirror]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
 
 * Chapter 4: Differential Pairs
 
@@ -124,7 +125,7 @@ Class Schedule
 
 ---
 
-Lab Report Example Structure <a name="lab-report-example-section">
+Lab Report Example Structure <a name="h2-lab-report-example-structure">
 ----------------------------
 
 ### Schematic Diagram

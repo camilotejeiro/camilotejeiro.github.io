@@ -8,7 +8,7 @@ title: 'AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror'
 
 ## SPICE Simulations 
 
-### Operating Point Analysis <a name="operating-point-analysis-section">
+### Operating Point Analysis <a name="h3-operating-point-analysis">
 
 Here, we are calculating the DC voltages (bias voltages) at every node of our
 circuit.
@@ -36,7 +36,7 @@ v2#branch               -49.4646 uA
 (v2#branch/v1#branch)   .9893
 ~~~
 
-### DC Analysis <a name="dc-analysis-section">
+### DC Analysis <a name="h3-dc-analysis">
 
 In our DC analysis, we are measuring the variation of the mirrored output current 
 under different loads.
@@ -68,7 +68,7 @@ current I1, we should see a "diode" voltage drop from collector-base to emitter
 the collector current of Q2 should match identically that of Q1, except for two
 errors:
 
-1. From our [simulation results above](#operating-point-analysis-section) with
+1. From our [simulation results above](#h3-operating-point-analysis) with
     our 1V load, we can see that currents v1\#branch and v2\#branch are very
     close, but not exactly identical. (and it gets worse as soon as we
     "introduce" a load) 
@@ -92,7 +92,7 @@ errors:
     
     This means our current mirror does not accurately match the source 
     current under different loads; We can see the extent of this error in our
-    [DC analysis plot](#dc-analysis-section).
+    [DC analysis plot](#h3-dc-analysis).
 
     **Error measurement**: Variation of 48.8uA to 53uA over current mirror operating
     region (roughly above 0.3V collector voltage). 
@@ -128,7 +128,7 @@ R_out = (5V - 0.3V) / (53uA - 48.8uA)
 R_out = 1.12 MR
 ~~~
 
-* **Output Resistance**: 1.12 MR
+* **Output Resistance**: 1.12 MR (from 0.3 to 5V range)
 
 #### Compliance Voltage (for current mirrors)
 
