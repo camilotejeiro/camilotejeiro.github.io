@@ -8,9 +8,9 @@ to others, or to myself at a later date._
 
 I am a **Hardware Electrical Engineer**, here is my professional profile:
 
-* [Electrical Engineering Resume](/linked_files/about_1.pdf) (Only hardware/firmware experience).
+* [Electrical Engineering Resume](/linked_files/about_1.pdf) (Only hardware/firmware experience)
 
-* [Professional Profile](/linked_files/about_2.pdf) (All my engineering experience.)
+* [Professional Profile](/linked_files/about_2.pdf) (All my engineering experience)
 
 * [LinkedIn Online Profile](https://www.linkedin.com/in/camilotejeiro/en)
 

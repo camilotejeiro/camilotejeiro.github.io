@@ -45,18 +45,17 @@ Assignments and Lab Reports
 
 ### Assignments (to be done first)
 
-Remember: every chapter must be read completely and every section (where
-    circuits are covered) must be understood and explained in your lab notebook, 
-    before the start of any individual lab report. 
-    Specifically:
+Remember: every chapter must be read completely and each section must be 
+    understood and explained in your lab notebook (where circuits are covered)
+    before the start of that section's lab report, specifically:
 
 * Read textbook chapter
-    - Define lab sections
+    + Define lab sections
 
-* Focus on individual sections (only if circuit topologies are covered)
-    a. Understand each individual circuit topology (for each section)
-    b. Write up (in lab notebook) circuit overview and explanation of 
-        results for each section
+* For each individual section (only if circuit topologies are covered)
+    + Understand each individual circuit topology 
+    + Write up (in lab notebook) circuit overview and explanation of 
+        results
 
 ### Lab Reports (only necessary if circuit topologies are covered)
 
@@ -79,7 +78,7 @@ Remember: every chapter must be read completely and every section (where
 * All the required section lab reports for each chapter should be completed in 
     a month or less. i.e. so that we are covering at least a chapter per month.
 
-Class Syllabus
+Class Schedule
 --------------
 
 * Chapter 1: Devices, history and intro to analog IC design.
@@ -180,7 +179,7 @@ report and syllabus.
 * [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
 
 * [Reference textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf) 
-    - Designing Analog Chips -- Hans Camenzind
+    + Designing Analog Chips -- Hans Camenzind
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 
 
@@ -188,7 +187,7 @@ report and syllabus.
     schematic diagrams 
 
 * [Gnuplot](http://www.gnuplot.info) will be used for plot print-outs 
-    - Interactive plotting during simulation with built-in plot command 
+    + Interactive plotting during simulation with built-in plot command 
         (i.e.  Ngnutmeg)
 
 * [Inkscape](https://inkscape.org/en) will be used for Scalable Vector Graphics 

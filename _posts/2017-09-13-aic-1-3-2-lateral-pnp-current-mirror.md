@@ -103,11 +103,11 @@ to the split collector layout). However, there are two errors:
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    - Reference textbook chapter 3 (page 3-2)
+    + Reference textbook chapter 3 (page 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/2_lateral_pnp_current_mirror)
 
 * [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
-    - Lab 3.1: Current Mirrors -- The Widlar Current Mirror
+    + Lab 3.1: Current Mirrors -- The Widlar Current Mirror
 
 {% include issues_comments.md %}

@@ -267,11 +267,11 @@ actually does in our simulation are in agreement -- that's a good thing.**
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})  
-    - NGSPICE User Manual chapter 21.1 (pages 377 - 382)
+    + NGSPICE User Manual chapter 21.1 (pages 377 - 382)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
 
 * [Next report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})  
-    - Lab 3.1: Current Mirrors -- The Widlar Current Mirror
+    + Lab 3.1: Current Mirrors -- The Widlar Current Mirror
 
 {% include issues_comments.md %}

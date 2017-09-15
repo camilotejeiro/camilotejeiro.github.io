@@ -153,14 +153,14 @@ _SPICE model device parameters are referenced in the course syllabus_
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    - Reference textbook chapter 3 (pages 3-1 and 3-2)
+    + Reference textbook chapter 3 (pages 3-1 and 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
 
 * [Previous report]({% post_url 2017-08-19-aic-1-2-simulation %})
-    - Lab 2: Simulation -- SPICE Simulations with NGSPICE
+    + Lab 2: Simulation -- SPICE Simulations with NGSPICE
 
 * [Next report]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
-    - Lab 3.2: Current Mirrors -- Lateral PNP current Mirror
+    + Lab 3.2: Current Mirrors -- Lateral PNP current Mirror
 
 {% include issues_comments.md %}
