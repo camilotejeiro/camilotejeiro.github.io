@@ -90,6 +90,7 @@ Class Schedule
     + [AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
     + [AIC-1.3.2: Current Mirrors -- Lateral PNP Current Mirror]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
     + [AIC-1.3.3: Current Mirrors -- Simple MOS Current Mirror]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
+    + [AIC-1.3.4: Current Mirrors -- Emitter Resistors (Negative Feedback)]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
 
 * Chapter 4: Differential Pairs
 

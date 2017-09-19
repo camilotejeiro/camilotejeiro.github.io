@@ -18,7 +18,7 @@ Relevant source code lines:
 ~~~
 OP                      
 print all               
-* Output current over constant input current (at "no load"): should be 1 for best match.
+* Output current over constant input current (with 1V load): should be 1 for best match.
 print (v2#branch/v1#branch)
 ~~~
 
@@ -104,5 +104,8 @@ Note that this topology is symmetrical and can be inverted by using PMOS
 
 * [Previous report]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
     + Lab 3.2: Current Mirrors -- Lateral PNP Current Mirror
+
+* [Next report]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
+    + Lab 3.4: Current Mirrors -- Emitter Resistors (Negative Feedback)
 
 {% include issues_comments.md %}

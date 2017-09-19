@@ -18,7 +18,7 @@ Relevant source code lines:
 ~~~
 OP                      
 print all               
-* Output current over constant input current (at "no load"): should be 1 for best match.
+* Output current over constant input current (with 1V load): should be 1 for best match.
 print (v2#branch/50e-06)
 ~~~
 
