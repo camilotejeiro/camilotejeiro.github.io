@@ -59,7 +59,7 @@ gnuplot $filename (v2#branch*-1e+06) ylimit $ylow $yhigh title $title xlabel $xl
 
 ![Emitter Resistors Negative Feedback Simulation DC](/linked_files/2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback_2.svg)
 
-## Explanation of Results 
+## Results 
 
 Adding emitter resistors to the Widlar Current Mirror can help us introduce
 negative feedback to help minimize the error in the output current with changes
@@ -114,11 +114,14 @@ mirrors by placing the resistors in the sources of both transistors._
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + Reference textbook chapter 3 (page 3-3)
+    + See reference textbook chapter 3 (page 3-3)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/4_emitter_resistors_negative_feedback)
 
 * [Previous report]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
     + Lab 3.3: Current Mirrors -- Simple MOS Current Mirror 
-
+ 
+* [Next report]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
+    + Lab 3.5: Current Mirrors -- Wilson Current Mirror
+ 
 {% include issues_comments.md %}

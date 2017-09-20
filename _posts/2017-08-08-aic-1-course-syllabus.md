@@ -84,15 +84,14 @@ Class Schedule
 * Chapter 1: Devices, history and intro to analog IC design.
 
 * Chapter 2: Intro to AICs simulation -- SPICE
-    + [AIC-1.2: Simulation -- SPICE Simulations with NGSPICE]({% post_url 2017-08-19-aic-1-2-simulation %})
+    + [Lab 2: SPICE Simulations with NGSPICE]({% post_url 2017-08-19-aic-1-2-simulation %})
 
 * Chapter 3: Current Mirrors
-    + [AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
-    + [AIC-1.3.2: Current Mirrors -- Lateral PNP Current Mirror]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
-    + [AIC-1.3.3: Current Mirrors -- Simple MOS Current Mirror]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
-    + [AIC-1.3.4: Current Mirrors -- Emitter Resistors (Negative Feedback)]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
-
-* Chapter 4: Differential Pairs
+    + [Lab 3.1: Widlar Current Mirror]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
+    + [Lab 3.2: Lateral PNP Current Mirror]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
+    + [Lab 3.3: Simple MOS Current Mirror]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
+    + [Lab 3.4: Emitter Resistors (Negative Feedback)]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
+    + [Lab 3.5: Wilson Current Mirror]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
 
 * Chapter 5: Current Sources
 
@@ -157,14 +156,11 @@ examples:
 
 #### AC Analysis
 
-### Explanation of Results
+### Results
 
-This is a general overview of the circuit topology and explanation of the results,
-based on the textbook reference. 
-
-You need to read the respective chapter in the book and understand how the
-circuit works, then in this section of the report you should describe **in your
-own words** the circuit and it's operation. 
+Describe the results of your simulation: figures of merit, error measurements
+...etc.  Anything necessary to compare the performance of the circuit with other
+topologies.
 
 ### Source Code
 

@@ -56,7 +56,7 @@ gnuplot $filename (v2#branch*1e+06) ylimit $ylow $yhigh title $title xlabel $xla
 
 ![Lateral PNP Current Mirror Simulation DC](/linked_files/2017-09-13-aic-1-3-2-lateral-pnp-current-mirror_2.svg)
 
-## Explanation of Results
+## Results
 
 One of the few advantages of lateral PNP transistors (see reference textbook
 page 1-22) is that you can split the collector of the device into multiple
@@ -103,12 +103,12 @@ to the split collector layout). However, there are two errors:
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + Reference textbook chapter 3 (page 3-2)
+    + See reference textbook chapter 3 (page 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/2_lateral_pnp_current_mirror)
 
 * [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
-    + Lab 3.1: Current Mirrors -- The Widlar Current Mirror
+    + Lab 3.1: Current Mirrors -- Widlar Current Mirror
 
 * [Next report]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
     + Lab 3.3: Current Mirrors -- Simple MOS Current Mirror

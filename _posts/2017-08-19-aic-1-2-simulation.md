@@ -120,7 +120,7 @@ gnuplot $filename phase(n_out/n_in)*180/pi title $title xlabel $xlabel ylabel $y
 
 ![Common Emitter Amplifier Simulation AC Phase](/linked_files/2017-08-19-aic-1-2-simulation_6.svg)
 
-### Explanation of Results (mostly a sanity check)
+### Results (mostly a sanity check)
 
 Let's start with a quick qualitative analysis. From a Common-emitter Amplifier circuit topology we
 should expect:
@@ -272,6 +272,6 @@ actually does in our simulation are in agreement -- that's a good thing.**
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
 
 * [Next report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})  
-    + Lab 3.1: Current Mirrors -- The Widlar Current Mirror
+    + Lab 3.1: Current Mirrors -- Widlar Current Mirror
 
 {% include issues_comments.md %}

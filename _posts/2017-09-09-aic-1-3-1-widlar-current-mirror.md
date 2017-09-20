@@ -1,5 +1,5 @@
 ---
-title: 'AIC-1.3.1: Current Mirrors -- The Widlar Current Mirror' 
+title: 'AIC-1.3.1: Current Mirrors -- Widlar Current Mirror' 
 ---
 
 ## Schematic Diagram
@@ -57,7 +57,7 @@ gnuplot $filename (v2#branch*-1e+06) ylimit $ylow $yhigh title $title xlabel $xl
 
 ![Widlar Current Mirror Simulation DC](/linked_files/2017-09-09-aic-1-3-1-widlar-current-mirror_2.svg)
 
-## Explanation of Results
+## Results
 
 The Widlar current mirror is named after it's inventor [Bob Widlar](https://en.wikipedia.org/wiki/Bob_Widlar),
 A renowned bright analog IC designer with an "interesting" character.
@@ -153,7 +153,7 @@ _SPICE model device parameters are referenced in the course syllabus_
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + Reference textbook chapter 3 (pages 3-1 and 3-2)
+    + See reference textbook chapter 3 (pages 3-1 and 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
 

@@ -56,7 +56,7 @@ gnuplot $filename (v2#branch*-1e+06) ylimit $ylow $yhigh title $title xlabel $xl
 
 ![Simple MOS Current Mirror Simulation DC](/linked_files/2017-09-15-aic-1-3-3-simple-mos-current-mirror_2.svg)
 
-## Explanation of Results 
+## Results 
 
 Similar to the Widlar current mirror but now with MOS devices: a simple current
 mirror can be constructed by placing two back to back NMOS FETs. The first
@@ -98,7 +98,7 @@ Note that this topology is symmetrical and can be inverted by using PMOS
 ### References and Notes
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + Reference textbook chapter 3 (page 3-3)
+    + See reference textbook chapter 3 (page 3-3)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/3_simple_mos_current_mirror)
 
