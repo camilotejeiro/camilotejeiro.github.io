@@ -150,7 +150,7 @@ For the Widlar current mirror:
 
 _SPICE model device parameters are referenced in the course syllabus_ 
 
-### References and Notes
+### References
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
     + See reference textbook chapter 3 (pages 3-1 and 3-2)

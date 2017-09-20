@@ -169,7 +169,7 @@ for the circuit simulation in this section.
 
 Alternatively, you can provide the source code in this section verbatim.
 
-### References and Notes
+### References
 
 Don't repeat references on each report, simply provide a link to the previous
 report and syllabus.

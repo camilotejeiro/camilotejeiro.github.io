@@ -264,7 +264,7 @@ actually does in our simulation are in agreement -- that's a good thing.**
 
 * [SPICE Simulation Models](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_models.spice)
 
-### References and Notes
+### References
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})  
     + NGSPICE User Manual chapter 21.1 (pages 377 - 382)

@@ -111,7 +111,7 @@ For the Wilson current mirror in the reference textbook, the following are the
 
 * **Compliance Voltage**: 1.1V (from ground)
 
-_the compliance voltage of this circuit is rather high which limits the use of
+_The compliance voltage of this circuit is rather high which limits the use of
 this topology outside of the scope of most low power applications_
 
 ### Source code
@@ -120,7 +120,7 @@ this topology outside of the scope of most low power applications_
 
 * [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/5_wilson_current_mirror/wilson_current_mirror_simulation_testbench.spice)
 
-### References and Notes
+### References
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
     + See reference textbook chapter 3 (page 3-4): 

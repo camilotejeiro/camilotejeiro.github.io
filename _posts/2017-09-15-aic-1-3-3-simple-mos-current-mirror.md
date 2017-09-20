@@ -95,7 +95,7 @@ Note that this topology is symmetrical and can be inverted by using PMOS
 
 * [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/3_simple_mos_current_mirror/simple_mos_current_mirror_simulation_testbench.spice)
 
-### References and Notes
+### References
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
     + See reference textbook chapter 3 (page 3-3)
