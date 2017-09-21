@@ -8,7 +8,7 @@ title: 'AIC-1.3.2: Current Mirrors -- Lateral PNP Current Mirror'
 
 ## SPICE Simulations 
 
-### Operating Point Analysis <a name="operating-point-analysis-section">
+### Operating Point Analysis
 
 Here, we are calculating the DC voltages (bias voltages) at every node of our
 circuit.
@@ -35,7 +35,7 @@ v2#branch               48.4859 uA
 (v2#branch/50e-06)      .9697
 ~~~
 
-### DC Analysis <a name="dc-analysis-section">
+### DC Analysis
 
 In our DC analysis, we are measuring the variation of the mirrored output current 
 under different loads.
@@ -85,7 +85,7 @@ to the split collector layout). However, there are two errors:
     emitter to substrate and under saturation the current increases to be almost
     the same as that of the collector.
 
-    In the [graph above](#dc-analysis-section), this happens at a collector
+    In the [graph above](#dc-analysis), this happens at a collector
     voltage of 4.7V or about 0.3V from the 5V positive supply. 
 
 ### Figures of Merit
@@ -102,10 +102,12 @@ to the split collector layout). However, there are two errors:
 
 ### References
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + See reference textbook chapter 3 (page 3-2)
+* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+    + Chapter 3 (page 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/2_lateral_pnp_current_mirror)
+
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
 * [Previous report]({% post_url 2017-09-09-aic-1-3-1-widlar-current-mirror %})
     + Lab 3.1: Current Mirrors -- Widlar Current Mirror

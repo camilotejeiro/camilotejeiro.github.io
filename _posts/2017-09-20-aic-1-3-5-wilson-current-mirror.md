@@ -114,6 +114,9 @@ For the Wilson current mirror in the reference textbook, the following are the
 _The compliance voltage of this circuit is rather high which limits the use of
 this topology outside of the scope of most low power applications_
 
+There is also a PNP equivalent Wilson current mirror which will be explored in
+the next lab report.
+
 ### Source code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/5_wilson_current_mirror/wilson_current_mirror_simulation_netlist.spice)
@@ -122,12 +125,17 @@ this topology outside of the scope of most low power applications_
 
 ### References
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + See reference textbook chapter 3 (page 3-4): 
+* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+    + Chapter 3 (page 3-4) 
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/5_wilson_current_mirror)
 
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
+
 * [Previous report]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
     + Lab 3.4: Current Mirrors -- Emitter Resistors (Negative Feedback) 
+
+* [Next report]({% post_url 2017-09-21-aic-1-3-6-pnp-wilson-current-mirror %})
+    + Lab 3.6: Current Mirrors -- PNP Wilson Current Mirror
 
 {% include issues_comments.md %}

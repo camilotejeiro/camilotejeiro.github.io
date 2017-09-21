@@ -113,10 +113,12 @@ mirrors by placing the resistors in the sources of both transistors._
 
 ### References 
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + See reference textbook chapter 3 (page 3-3)
+* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+    + Chapter 3 (page 3-3)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/4_emitter_resistors_negative_feedback)
+
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
 * [Previous report]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
     + Lab 3.3: Current Mirrors -- Simple MOS Current Mirror 

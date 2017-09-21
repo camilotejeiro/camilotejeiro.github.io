@@ -97,10 +97,12 @@ Note that this topology is symmetrical and can be inverted by using PMOS
 
 ### References
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + See reference textbook chapter 3 (page 3-3)
+* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+    + Chapter 3 (page 3-3)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/3_simple_mos_current_mirror)
+
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
 * [Previous report]({% post_url 2017-09-13-aic-1-3-2-lateral-pnp-current-mirror %})
     + Lab 3.2: Current Mirrors -- Lateral PNP Current Mirror

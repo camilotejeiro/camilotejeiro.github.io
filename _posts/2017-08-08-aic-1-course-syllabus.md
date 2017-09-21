@@ -7,7 +7,7 @@ course, and update references to submitted lab reports._
 Course Description 
 ------------------
 
-### Class Objective
+### Class Objective 
 
 Gaining familiarity with common analog IC topologies through SPICE simulation analyses.
 
@@ -26,7 +26,7 @@ The textbook we will use for this class is:
 
 * [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
 
-### SPICE Simulation Software
+### SPICE Simulation Software 
 
 The circuit simulator we will use for this class is:
 
@@ -40,7 +40,7 @@ The SPICE models device parameters we will use for this class are:
 
 * Bipolar Devices (reference textbook): 20V bipolar process.
 
-Assignments and Lab Reports
+Assignments and Lab Reports 
 ---------------------------
 
 ### Assignments (to be done first)
@@ -59,7 +59,7 @@ Remember: every chapter must be read completely and each section must be
 
 ### Lab Reports (only necessary if circuit topologies are covered)
 
-* See the [lab report template below](#h2-lab-report-example-structure) for an 
+* See the [lab report template below](#lab-report-example-structure) for an 
     example of what needs to be covered for every lab report.
 
 * Unless otherwise noted: individual lab reports need to be submitted for
@@ -92,6 +92,7 @@ Class Schedule
     + [Lab 3.3: Simple MOS Current Mirror]({% post_url 2017-09-15-aic-1-3-3-simple-mos-current-mirror %})
     + [Lab 3.4: Emitter Resistors (Negative Feedback)]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
     + [Lab 3.5: Wilson Current Mirror]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
+    + [Lab 3.6: PNP Wilson Current Mirror]({% post_url 2017-09-21-aic-1-3-6-pnp-wilson-current-mirror %})
 
 * Chapter 5: Current Sources
 
@@ -125,7 +126,7 @@ Class Schedule
 
 ---
 
-Lab Report Example Structure <a name="h2-lab-report-example-structure">
+Lab Report Example Structure
 ----------------------------
 
 ### Schematic Diagram

@@ -8,7 +8,7 @@ title: 'AIC-1.3.1: Current Mirrors -- Widlar Current Mirror'
 
 ## SPICE Simulations 
 
-### Operating Point Analysis <a name="h3-operating-point-analysis">
+### Operating Point Analysis 
 
 Here, we are calculating the DC voltages (bias voltages) at every node of our
 circuit.
@@ -36,7 +36,7 @@ v2#branch               -49.4646 uA
 (v2#branch/v1#branch)   .9893
 ~~~
 
-### DC Analysis <a name="h3-dc-analysis">
+### DC Analysis
 
 In our DC analysis, we are measuring the variation of the mirrored output current 
 under different loads.
@@ -68,7 +68,7 @@ current I1, we should see a "diode" voltage drop from collector-base to emitter
 the collector current of Q2 should match identically that of Q1, except for two
 errors:
 
-1. From our [simulation results above](#h3-operating-point-analysis) with
+1. From our [simulation results above](#operating-point-analysis) with
     our 1V load, we can see that currents v1\#branch and v2\#branch are very
     close, but not exactly identical. (and it gets worse as soon as we
     "introduce" a load) 
@@ -92,7 +92,7 @@ errors:
     
     This means our current mirror does not accurately match the source 
     current under different loads; We can see the extent of this error in our
-    [DC analysis plot](#h3-dc-analysis).
+    [DC analysis plot](#dc-analysis).
 
     **Error measurement**: Variation of 48.8uA to 53uA over current mirror operating
     region (roughly above 0.3V collector voltage). 
@@ -152,10 +152,12 @@ _SPICE model device parameters are referenced in the course syllabus_
 
 ### References
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
-    + See reference textbook chapter 3 (pages 3-1 and 3-2)
+* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+    + Chapter 3 (pages 3-1 and 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
+
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %}) 
 
 * [Previous report]({% post_url 2017-08-19-aic-1-2-simulation %})
     + Lab 2: Simulation -- SPICE Simulations with NGSPICE
