@@ -90,12 +90,12 @@ For the Wilson current mirror in the reference textbook, the following are the
 
 ### References
 
-* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+* [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-4) 
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/6_pnp_wilson_current_mirror)
 
-* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook)
+* [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook)
 
 * [Previous report]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
     + Lab 3.5: Current Mirrors -- Wilson Current Mirror 

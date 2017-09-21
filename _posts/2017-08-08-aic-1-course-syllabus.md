@@ -7,7 +7,7 @@ course, and update references to submitted lab reports._
 Course Description 
 ------------------
 
-### Class Objective 
+### Objective 
 
 Gaining familiarity with common analog IC topologies through SPICE simulation analyses.
 
@@ -20,9 +20,9 @@ ultimately intuition for the operation of common analog IC topologies.
 This is essential knowledge required to put our results and future circuit 
 analyses in context (see AIC-2).
 
-### Reference Textbook
+### Textbook
 
-The textbook we will use for this class is:
+The reference textbook we will use for this class is:
 
 * [Designing Analog Chips (Hans Camenzind)](http://designinganalogchips.com)
 
@@ -70,7 +70,7 @@ Remember: every chapter must be read completely and each section must be
     + If there are significant differences, make sure to explain them in your
         report.
 
-### Reports Submission Timelines
+#### Submission Timelines
 
 * Individual section lab reports should be submitted every two to four weeks.
     (depending on the complexity of the circuit topology)
@@ -78,8 +78,8 @@ Remember: every chapter must be read completely and each section must be
 * All the required section lab reports for each chapter should be completed in 
     a month or less. i.e. so that we are covering at least a chapter per month.
 
-Class Schedule
---------------
+Course Schedule
+---------------
 
 * Chapter 1: Devices, history and intro to analog IC design.
 
@@ -177,7 +177,7 @@ report and syllabus.
 
 * [AIC-1 lab files](https://github.com/camilotejeiro/aic_1_lab)
 
-* [Reference textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf) 
+* [Textbook](http://designinganalogchips.com/_count/designinganalogchips.pdf) 
     + Designing Analog Chips -- Hans Camenzind
 
 * [NGSPICE User Manual](http://ngspice.sourceforge.net/docs/ngspice26-manual.pdf) 

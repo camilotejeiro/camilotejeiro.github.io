@@ -97,7 +97,7 @@ Note that this topology is symmetrical and can be inverted by using PMOS
 
 ### References
 
-* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+* [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-3)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/3_simple_mos_current_mirror)

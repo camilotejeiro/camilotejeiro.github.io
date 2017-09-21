@@ -152,7 +152,7 @@ _SPICE model device parameters are referenced in the course syllabus_
 
 ### References
 
-* [Reference Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#reference-textbook) 
+* [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (pages 3-1 and 3-2)
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
