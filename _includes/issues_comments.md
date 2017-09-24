@@ -1,6 +1,9 @@
-Find a problem? Mistakes?
-[File an Issue.](https://github.com/camilotejeiro/camilotejeiro.github.io/issues) 
-_You can reply on an existent thread related to this post, or otherwise 
-create a new issue using the title of this post._
+<br>
+<hr>
+<br>
+_Find a problem? Mistakes?_
+[File an Issue](https://github.com/camilotejeiro/camilotejeiro.github.io/issues). 
+You can reply on an existent thread related to this post, or otherwise 
+create a new issue using the title of this post.
 
-Comments? drop me a note at the address below.
+_Comments?_ Drop me a note at the address below.
