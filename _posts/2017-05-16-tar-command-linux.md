@@ -6,8 +6,8 @@ _Tested on Linux Mint 17 (Ubuntu 14.04 based)_
 
 The following are some useful TAR arguments with explanations: 
 
-_Don't execute these, see full complete commands in the next real-life examples 
-section afterwards_
+_Don't execute these, see full complete commands in the next "real-life
+examples" section afterwards._
 
 * Extract (x parameter) while listing (v parameter) verbosely the files to the 
 screen.

@@ -55,13 +55,13 @@ argument)
 
 ### Server machine serving the file 
 
-`tar cz directory_name | nc -v -l -q 0 -p 11055
+`tar cz directory_name | nc -v -l -q 0 -p 11055`
     
 Arguments: tar (compress using tar utility), c (create archive), z (compress using gzip)
 
 ### Client machine receiving the file
 
-`nc 127.0.0.1 11055 | tar xz
+`nc 127.0.0.1 11055 | tar xz`
     
 Arguments: x (extract), z (using gzip)
 
@@ -69,11 +69,11 @@ Arguments: x (extract), z (using gzip)
 
 ### Server machine receiving and uncompressing the files 
 
-`nc -v -l -q 0 -p 11055 | tar xz
+`nc -v -l -q 0 -p 11055 | tar xz`
 
 ### Client machine sending the file
 
-`tar cz | nc 127.0.0.1 11055
+`tar cz | nc 127.0.0.1 11055`
 
 **Remember** you can send the file from the client to the server or vice-versa, 
 the only reason for one or the other is if one of the machines is behind a 
