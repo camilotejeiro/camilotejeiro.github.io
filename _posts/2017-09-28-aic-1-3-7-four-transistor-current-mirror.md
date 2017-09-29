@@ -60,7 +60,7 @@ been thoroughly commented to ease understanding. I have also added helpful
 directory in the lab files repository.
 
 The main thing to keep in mind in simulating device mismatches is that 
-**the transistor model with it's respective parameters needs to be placed
+**the transistor model with its respective parameters needs to be placed
 inside a SPICE subcircuit.** This is the only way to be able to modify
 parameters independently for every transistor in the netlist, otherwise a change
 in model parameters propagates to all transistors.
@@ -79,7 +79,7 @@ As mentioned before for the [Wilson Current Mirror]({% post_url 2017-09-20-aic-1
 lab report, there was a matching error for transistors Q1 and Q2: their
 collector voltages were not the same.
 
-Thus a fourth transistor (Q4) was added, it's main job to decrease the voltage
+Thus a fourth transistor (Q4) was added, its main job to decrease the voltage
 at n3 by one V_be in order to bring the voltages n4 and n1 (the collector
 voltages for the current matching transistors Q1 and Q2) more closely in line.
 
