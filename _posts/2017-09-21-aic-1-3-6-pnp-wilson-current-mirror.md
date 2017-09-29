@@ -100,4 +100,7 @@ For the Wilson current mirror in the reference textbook, the following are the
 * [Previous report]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
     + Lab 3.5: Current Mirrors -- Wilson Current Mirror 
 
+* [Next report]({% post_url 2017-09-28-aic-1-3-7-four-transistor-current-mirror %})
+    + Lab 3.7: Current Mirrors -- Four Transistor Current Mirror 
+
 {% include issues_comments.md %}

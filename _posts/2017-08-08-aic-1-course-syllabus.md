@@ -93,6 +93,7 @@ Course Schedule
     + [Lab 3.4: Emitter Resistors (Negative Feedback)]({% post_url 2017-09-18-aic-1-3-4-emitter-resistors-negative-feedback %})
     + [Lab 3.5: Wilson Current Mirror]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
     + [Lab 3.6: PNP Wilson Current Mirror]({% post_url 2017-09-21-aic-1-3-6-pnp-wilson-current-mirror %})
+    + [Lab 3.7: Four Transistor Current Mirror]({% post_url 2017-09-28-aic-1-3-7-four-transistor-current-mirror %})
 
 * Chapter 5: Current Sources
 
