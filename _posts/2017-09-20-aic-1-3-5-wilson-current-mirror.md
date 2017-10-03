@@ -117,13 +117,13 @@ this topology outside of the scope of most low power applications_
 There is also a PNP equivalent Wilson current mirror which will be explored in
 the next lab report.
 
-### Source code
+## Source code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/5_wilson_current_mirror/wilson_current_mirror_simulation_netlist.spice)
 
 * [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/5_wilson_current_mirror/wilson_current_mirror_simulation_testbench.spice)
 
-### References
+## References
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-4) 

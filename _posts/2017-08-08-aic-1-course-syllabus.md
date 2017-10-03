@@ -94,6 +94,8 @@ Course Schedule
     + [Lab 3.5: Wilson Current Mirror]({% post_url 2017-09-20-aic-1-3-5-wilson-current-mirror %})
     + [Lab 3.6: PNP Wilson Current Mirror]({% post_url 2017-09-21-aic-1-3-6-pnp-wilson-current-mirror %})
     + [Lab 3.7: Four Transistor Current Mirror]({% post_url 2017-09-28-aic-1-3-7-four-transistor-current-mirror %})
+    + [Lab 3.8: Scaling Currents (Ratios)]({% post_url 2017-10-03-aic-1-3-8-scaling-currents-ratios %})
+    + [Lab 3.9: Generating Multiple Currents]({% post_url 2017-10-03-aic-1-3-9-generating-multiple-currents %})
 
 * Chapter 5: Current Sources
 

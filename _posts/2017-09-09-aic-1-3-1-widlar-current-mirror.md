@@ -142,7 +142,7 @@ For the Widlar current mirror:
 
 * **Compliance Voltage**: 0.3 V (from ground)
 
-### Source code
+## Source code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror/widlar_current_mirror_simulation_netlist.spice)
 
@@ -150,7 +150,7 @@ For the Widlar current mirror:
 
 _SPICE model device parameters are referenced in the course syllabus_ 
 
-### References
+## References
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (pages 3-1 and 3-2)

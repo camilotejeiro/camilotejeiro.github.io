@@ -105,13 +105,13 @@ mirrors by placing the resistors in the sources of both transistors._
 
 * **Compliance Voltage**: 0.6V (from ground)
 
-### Source code
+## Source code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/4_emitter_resistors_negative_feedback/emitter_resistors_negative_feedback_simulation_netlist.spice)
 
 * [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/4_emitter_resistors_negative_feedback/emitter_resistors_negative_feedback_simulation_testbench.spice)
 
-### References 
+## References 
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-3)

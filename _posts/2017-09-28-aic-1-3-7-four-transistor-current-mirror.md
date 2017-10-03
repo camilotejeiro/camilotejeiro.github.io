@@ -107,7 +107,7 @@ following are the **error measurements**:
 
 * **Compliance Voltage**: 1V (from ground)
 
-### Source Code
+## Source Code
 
 * [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/four_transistor_current_mirror_simulation_netlist.spice)
 
@@ -115,7 +115,7 @@ following are the **error measurements**:
 
 * [SPICE Simulation Testbench Montecarlo Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/four_transistor_current_mirror_simulation_testbench_montecarlo.spice)
 
-### References
+## References
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-5) 
@@ -130,5 +130,8 @@ following are the **error measurements**:
 
 * [Previous report]({% post_url 2017-09-21-aic-1-3-6-pnp-wilson-current-mirror %})
     + Lab 3.6: Current Mirrors -- PNP Wilson Current Mirror 
+
+* [Next report]({% post_url 2017-10-03-aic-1-3-8-scaling-currents-ratios %})
+    + Lab 3.8: Current Mirrors -- Scaling Currents (Ratios)
 
 {% include issues_comments.md %}
