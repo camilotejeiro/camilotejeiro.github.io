@@ -91,6 +91,12 @@ But indeed as mentioned in the reference book, variations due to transistors
 mismatch can account for as much as +2% to -5.6% (from our montecarlo simulation) 
 relative to our reference current value.
 
+_This error is larger than that of the book, unfortunately we don't have the
+exact values used for the Montecarlo (mismatch) simulation in the book, nor the
+actual SPICE device parameters modified for every transistor during the
+simulation (this makes it almost impossible to compare results). However we
+will keep this report updated if any error is found. 
+
 For the "Four Transistor" current mirror in the reference textbook, the
 following are the **error measurements**: 
 
@@ -124,7 +130,7 @@ following are the **error measurements**:
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
-* [NGSPICE Example Montecarlo Simulations](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/montecarlo_examples)
+* [NGSPICE Example Montecarlo Simulations](https://github.com/camilotejeiro/aic_1_lab/tree/master/ngspice_examples/montecarlo)
 
 * [NGSPICE Discussion Thread: Local Mismatch](https://sourceforge.net/p/ngspice/discussion/133842/thread/5d3537b2)
 

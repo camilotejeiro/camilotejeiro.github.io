@@ -96,6 +96,7 @@ Course Schedule
     + [Lab 3.7: Four Transistor Current Mirror]({% post_url 2017-09-28-aic-1-3-7-four-transistor-current-mirror %})
     + [Lab 3.8: Scaling Currents (Ratios)]({% post_url 2017-10-03-aic-1-3-8-scaling-currents-ratios %})
     + [Lab 3.9: Generating Multiple Currents]({% post_url 2017-10-03-aic-1-3-9-generating-multiple-currents %})
+    + [Lab 3.10: MOS Current Mirror With Cascode Stage]({% post_url 2017-10-06-aic-1-3-10-mos-current-mirror-cascode-stage %})
 
 * Chapter 5: Current Sources
 

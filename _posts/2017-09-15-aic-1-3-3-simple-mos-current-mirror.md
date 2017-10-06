@@ -49,7 +49,7 @@ We are plotting the output current magnitude vs drain voltage.
 Relevant source code lines:
 
 ~~~
-DC V2 0V 3V 0.1V          ; Sweep Collector voltage from 0v to 3v in 0.1v increments.
+DC V2 0V 3V 0.1V          ; Sweep Drain voltage from 0v to 3v in 0.1v increments.
 
 gnuplot $filename (v2#branch*-1e+06) ylimit $ylow $yhigh title $title xlabel $xlabel ylabel $ylabel 
 ~~~
