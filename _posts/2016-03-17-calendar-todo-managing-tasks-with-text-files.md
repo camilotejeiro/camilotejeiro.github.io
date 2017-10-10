@@ -22,7 +22,7 @@ to bullet points 1, 2 and 3) This is extremely important: i.e. do you want to
 be forced to purchase a copy of your favorite planning software just to be
 able to open your notes? or do you want to be monitored 24x7 to be served with
 "better ads"? better ads, for who? Nah. (Here is more info on the [benefits of
-open formats/technology](https://osohm.github.io/faq/))
+open formats/technology](http://camilotejeiro.github.io/osohm_website)
 
 5. Dead simple interface. What you see is what you get, and it ain't pretty,
 no fancy colors or multiple fonts or ... you get the point. I personally don't

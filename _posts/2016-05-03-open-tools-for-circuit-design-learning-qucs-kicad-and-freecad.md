@@ -96,7 +96,7 @@ listen to the rants :) ):
 4. Create your own personal component's library [here's why]({% post_url 2016-04-22-regarding-kicad-library-management-no-complaints %})
     - Here are the [Kicad Library Conventions](https://github.com/KiCad/kicad-library/wiki/Kicad-Library-Convention)
         (KLC).  
-    - Here are [my own library conventions](https://github.com/camilotejeiro/kicad_cat_libraries/blob/master/kicad_cat_library_conventions.md)
+    - Here are [my own library conventions](https://github.com/camilotejeiro/kicad_cat_library/blob/master/rules.md)
         (very similar to KLC).  
     - Here are [my libraries for reference](https://github.com/camilotejeiro/kicad_cat_libraries) (these are constantly changing).
 
