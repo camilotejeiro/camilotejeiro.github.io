@@ -115,18 +115,18 @@ following are the **error measurements**:
 
 ## Source Code
 
-* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/four_transistor_current_mirror_simulation_netlist.spice)
+* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/07_four_transistor_current_mirror/four_transistor_current_mirror_simulation_netlist.spice)
 
-* [SPICE Simulation Testbench DC Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/four_transistor_current_mirror_simulation_testbench_dc.spice)
+* [SPICE Simulation Testbench DC Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/07_four_transistor_current_mirror/four_transistor_current_mirror_simulation_testbench_dc.spice)
 
-* [SPICE Simulation Testbench Montecarlo Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror/four_transistor_current_mirror_simulation_testbench_montecarlo.spice)
+* [SPICE Simulation Testbench Montecarlo Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/07_four_transistor_current_mirror/four_transistor_current_mirror_simulation_testbench_montecarlo.spice)
 
 ## References
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-5) 
 
-* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/7_four_transistor_current_mirror)
+* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/03_current_mirrors/07_four_transistor_current_mirror)
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 

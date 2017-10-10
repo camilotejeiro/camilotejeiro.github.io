@@ -116,18 +116,18 @@ is equivalent to an error of 0.1462% relative to the current reference.
 
 ## Source Code
 
-* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_netlist.spice)
+* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_netlist.spice)
 
-* [SPICE Simulation Testbench DC Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_testbench_dc.spice)
+* [SPICE Simulation Testbench DC Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_testbench_dc.spice)
 
-* [SPICE Simulation Testbench Montecarlo Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_testbench_montecarlo.spice)
+* [SPICE Simulation Testbench Montecarlo Analysis](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/10_mos_current_mirror_cascode_stage/mos_current_mirror_cascode_stage_simulation_testbench_montecarlo.spice)
 
 ## References
 
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (page 3-7) 
 
-* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/10_mos_current_mirror_cascode_stage)
+* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/03_current_mirrors/10_mos_current_mirror_cascode_stage)
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 

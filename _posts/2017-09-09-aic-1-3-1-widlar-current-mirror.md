@@ -144,9 +144,9 @@ For the Widlar current mirror:
 
 ## Source code
 
-* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror/widlar_current_mirror_simulation_netlist.spice)
+* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/01_widlar_current_mirror/widlar_current_mirror_simulation_netlist.spice)
 
-* [Spice Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror/widlar_current_mirror_simulation_testbench.spice)
+* [Spice Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/03_current_mirrors/01_widlar_current_mirror/widlar_current_mirror_simulation_testbench.spice)
 
 _SPICE model device parameters are referenced in the course syllabus_ 
 
@@ -155,7 +155,7 @@ _SPICE model device parameters are referenced in the course syllabus_
 * [Textbook (Hans Camenzind)]({% post_url 2017-08-08-aic-1-course-syllabus %}#textbook) 
     + Chapter 3 (pages 3-1 and 3-2)
 
-* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/3_current_mirrors/1_widlar_current_mirror)
+* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/03_current_mirrors/01_widlar_current_mirror)
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %}) 
 

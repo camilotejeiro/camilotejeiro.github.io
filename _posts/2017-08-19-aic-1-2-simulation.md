@@ -258,18 +258,18 @@ actually does in our simulation are in agreement -- that's a good thing.**
 
 ### Source code
 
-* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_netlist.spice)
+* [SPICE Simulation Netlist](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/02_simulation/ce_amplifier_simulation_netlist.spice)
 
-* [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_testbench.spice)
+* [SPICE Simulation Testbench](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/02_simulation/ce_amplifier_simulation_testbench.spice)
 
-* [SPICE Simulation Models](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/2_simulation/ce_amplifier_simulation_models.spice)
+* [SPICE Simulation Models](https://github.com/camilotejeiro/aic_1_lab/blob/master/lab_assignments/02_simulation/ce_amplifier_simulation_models.spice)
 
 ### References
 
 * [NGSPICE User Manual]({% post_url 2017-08-08-aic-1-course-syllabus %}#references)
     + Chapter 21.1 (pages 377 - 382)
 
-* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/2_simulation)
+* [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/02_simulation)
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
