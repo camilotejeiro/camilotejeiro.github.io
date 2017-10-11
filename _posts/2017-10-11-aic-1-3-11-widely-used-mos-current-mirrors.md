@@ -108,17 +108,81 @@ We are plotting the output current magnitude vs drain voltage.
 
 ## Results
 
-_Lab report in progress._
+This lab explores the simulation of 3 common MOS current mirror topologies. 
 
-**Error measurement**: 
+As noted in the book (refer to pages 3-7 and 3-8 [below](#references)), we can
+see that a common technique used for all the circuits is the addition of a cascode
+stage at the output. This stage helps to shield the lower current matching 
+transistors from fluctuations in load voltage and reduces the output current
+dependence on voltage. (improving our output resistance figure) 
+
+Biasing for the cascode stage transistors (required to keep them in saturation 
+where drain current dependence on drain voltage is small) is provided by both the
+use of additional devices (e.g. M1 for [circuit 1](#1-widely-used-mirror) and 
+R1 for [circuit 3](#3-best-performance)) and by changing the dimensions
+of MOS devices. I.e. By changing the dimensions of MOS devices one can affect
+their threshold voltage **indirectly**. (V\_th is actually dependent on many other
+physical and process parameters which vary depending on the semiconductor
+technology being used) 
+
+Furthermore, we can see that there are additional transistors (M1 for both
+circuits [2](#2-fewer-devices-same-performance) and [3](#3-best-performance) and
+M2 for circuit [1](#1-widely-used-mirror)) added in order to bring the drain
+voltages of our lower current matching transistors to equal each other and
+reduce our current match error. 
+
+**This report concludes our simulations for chapter 3 of the book -- current
+mirrors -- upcoming reports will explore "Differential Pair" IC topologies with
+bipolar and MOS devices.**
+
+### Error Measurements 
+
+#### 1. Widely Used Mirror
+
+For the first circuit, we have a variation of 49.9617uA to 50.1523uA over an
+operating range of 0.8V to 3V. This is equivalent to an error of 0.3812%
+relative to the current reference.
+
+#### 2. Fewer Devices, Same Performance
+
+For the second circuit, we have a variation of 49.9594uA to 50.1617uA over an
+operating range of 0.8V to 3V. This is equivalent to an error of 0.4046%
+relative to the current reference. 
+
+#### 3. Best Performance
+
+For the third circuit, we have a variation of 49.9947uA to 50.0256uA over an
+operating range of 0.7V to 3V. This is equivalent to an error of 0.0618%
+relative to the current reference.
 
 ### Figures of Merit
 
-_Lab report in progress._
+#### 1. Widely Used Mirror
 
-* **Output Resistance**: 
+* **Output Resistance**: 11.5425MR (from 0.8 to 3V linear range)
 
-* **Compliance Voltage**: 
+* **Compliance Voltage**: 0.8V (from ground)
+
+#### 2. Fewer Devices, Same Performance
+
+* **Output Resistance**: 10.8749MR (from 0.8 to 3V linear range)
+
+* **Compliance Voltage**: 0.8V (from ground)
+
+#### 3. Best Performance
+
+* **Output Resistance**: 74.4337MR (from 0.7 to 3V linear range)
+
+* **Compliance Voltage**: 0.7V (from ground)
+
+Looking at our results above, we can see that indeed the second circuit is
+comparable in performance to the first circuit (while employing fewer
+transistors and references) as described in the book, and the third
+circuit is evidently superior in both output resistance and compliance voltage
+and presents the best performance of the 3 topologies.
+
+Thus our simulations agree with our reference book results and expectations, and
+that is always a great thing.
 
 ## Source Code
 
