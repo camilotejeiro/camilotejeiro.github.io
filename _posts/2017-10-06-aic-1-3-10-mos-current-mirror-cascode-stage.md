@@ -136,4 +136,7 @@ is equivalent to an error of 0.1462% relative to the current reference.
 * [Previous report]({% post_url 2017-10-03-aic-1-3-9-generating-multiple-currents %})
     + Lab 3.9: Current Mirrors -- Generating Multiple Currents
 
+* [Next report]({% post_url 2017-10-11-aic-1-3-11-widely-used-mos-current-mirrors %})
+    + Lab 3.11: Current Mirrors -- Widely Used MOS Current Mirrors 
+
 {% include issues_comments.md %}
