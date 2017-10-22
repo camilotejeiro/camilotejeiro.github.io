@@ -120,16 +120,16 @@ Biasing for the cascode stage transistors (required to keep them in saturation
 where drain current dependence on drain voltage is small) is provided by both the
 use of additional devices (e.g. M1 for [circuit 1](#1-widely-used-mirror) and 
 R1 for [circuit 3](#3-best-performance)) and by changing the dimensions
-of MOS devices. I.e. By changing the dimensions of MOS devices one can affect
-their threshold voltage **indirectly**. (V\_th is actually dependent on many other
+of MOS devices, i.e. by changing the dimensions of MOS devices one can affect
+their threshold voltage _indirectly_. (V\_th is actually dependent on many other
 physical and process parameters which vary depending on the semiconductor
 technology being used) 
 
 Furthermore, we can see that there are additional transistors (M1 for both
-circuits [2](#2-fewer-devices-same-performance) and [3](#3-best-performance) and
+circuits [2](#2-fewer-devices-same-performance) and [3](#3-best-performance), and
 M2 for circuit [1](#1-widely-used-mirror)) added in order to bring the drain
-voltages of our lower current matching transistors to equal each other and
-reduce our current match error. 
+voltages of our lower current matching transistors more in-line with each other 
+to further reduce our current match error. 
 
 **This report concludes our simulations for chapter 3 of the book -- current
 mirrors -- upcoming reports will explore "Differential Pair" IC topologies with
@@ -200,6 +200,8 @@ that is always a great thing.
     + Chapter 3 (pages 3-7 and 3-8) 
 
 * [Lab files](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/03_current_mirrors/11_widely_used_mos_current_mirrors)
+
+* [Extra lab notes](https://github.com/camilotejeiro/aic_1_lab/tree/master/lab_assignments/03_current_mirrors/11_widely_used_mos_current_mirrors/quick_hand_analysis.pdf)
 
 * [AIC-1 Course Syllabus]({% post_url 2017-08-08-aic-1-course-syllabus %})
 
