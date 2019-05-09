@@ -2,7 +2,7 @@
 title: 'ACD1: Analog Circuit Design I -- Class Resources'
 ---
 
-This learning resources are to be kept for reference to describe class projects completed during my
+These learning resources are to be kept for reference to describe class projects completed during my
 graduate classes in Analog and RF IC design while at the University.
 
 _Please note there may be still typos, omissions or unfortunately some old learning mistakes in some
@@ -24,7 +24,7 @@ time._
 
 ### Fully Diferential Opamp Design
 
-1. FD Opamp Description to specs
+1. FD Opamp Description of specs
 
 2. Topology Selection
 
