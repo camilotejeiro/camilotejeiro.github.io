@@ -1,5 +1,5 @@
 ---
-title: 'RFIC1: Ultra-Low-Power ICs for Wireless Communications -- Class Resources'
+title: 'Integrated Circuits for Wireless Communications -- Class Resources'
 ---
 
 These learning resources are to be kept for reference to describe class projects completed during my
@@ -10,15 +10,15 @@ of these (I am in the process of fixing them). If you could kindly let me know (
 could fix them when I have a bit of time._
 
 
-## [Project 1: LNA Design](/linked_files/2019-05-16-rfic1-ics-wireless-comms-class-resources-1.pdf)
+## [Project 1: LNA Design](/linked_files/2019-05-16-integrated-circuits-for-wireless-communications-class-resources-1.pdf)
 
 Low-power narrow-band LNA for use in 2.45GHz ISM band applications.
     
-## [Project 2: Mixer Design](/linked_files/2019-05-16-rfic1-ics-wireless-comms-class-resources-2.pdf)
+## [Project 2: Mixer Design](/linked_files/2019-05-16-integrated-circuits-for-wireless-communications-class-resources-2.pdf)
 
 Current-driven passive mixer down-converter and TIA.
 
-## [Project 3: VCO Design](/linked_files/2019-05-16-rfic1-ics-wireless-comms-class-resources-3.pdf)
+## [Project 3: VCO Design](/linked_files/2019-05-16-integrated-circuits-for-wireless-communications-class-resources-3.pdf)
 
 Class-b LC-oscillator-based VCO for use in a 2.45GHz transceiver for ISM band applications.
 

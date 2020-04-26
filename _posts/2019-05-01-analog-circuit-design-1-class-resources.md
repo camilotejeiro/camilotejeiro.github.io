@@ -1,5 +1,5 @@
 ---
-title: 'ACD1: Analog Circuit Design I -- Class Resources'
+title: 'Analog Circuit Design I -- Class Resources'
 ---
 
 These learning resources are to be kept for reference to describe class projects completed during my
@@ -10,7 +10,7 @@ of these (I am in the process of fixing them). If you could kindly let me know (
 could fix them when I have a bit of time._
 
 
-## [Project 1: Current mirrors, folded OTA and 2 stage Opamps](/linked_files/2019-05-01-acd1-analog-circuit-design-class-resources-1.pdf)
+## [Project 1: Current mirrors, folded OTA and 2 stage Opamps](/linked_files/2019-05-01-analog-circuit-design-1-class-resources-1.pdf)
     
 1. Current mirror characterization and mismatch
 
@@ -20,7 +20,7 @@ could fix them when I have a bit of time._
 
 4. Two-stage opamp scaled to use smaller device feature sizes while preserving specs
     
-## [Project 2: Fully differential Opamp, Comparator Design](/linked_files/2019-05-01-acd1-analog-circuit-design-class-resources-2.pdf)
+## [Project 2: Fully differential Opamp, Comparator Design](/linked_files/2019-05-01-analog-circuit-design-1-class-resources-2.pdf)
 
 ### Fully Diferential Opamp Design
 
@@ -56,7 +56,7 @@ could fix them when I have a bit of time._
 
 6. Comparator Input Referred Noise
 
-## [Project 3: Ring VCO, Linear regulator, PLL](/linked_files/2019-05-01-acd1-analog-circuit-design-class-resources-3.pdf)
+## [Project 3: Ring VCO, Linear regulator, PLL](/linked_files/2019-05-01-analog-circuit-design-1-class-resources-3.pdf)
 
 1. Ring-based Voltage Controlled Oscillator Design
 
