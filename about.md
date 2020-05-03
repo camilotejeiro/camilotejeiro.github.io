@@ -11,7 +11,7 @@ and analog integrated circuit design**.
 
 Here is my professional profile:
 
-_My resume and LinkedIn profile tend to be most up to date._
+_My resume and professional profile tend to be most up to date._
 
 * [Electrical Engineering Resume](/linked_files/about_1.pdf) (Only hardware experience)
 
