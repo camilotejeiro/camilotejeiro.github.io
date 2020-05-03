@@ -6,7 +6,7 @@ layout: page
 _I created this blog to record and share some of my work in case it is useful 
 to others, or to myself at a later date._ 
 
-I am a **Hardware Electrical Engineer**, in a lifelong journey to specialize in **radio-frequency (RF)
+I am a **Hardware Electrical Engineer**, in a lifelong journey to specialize in **radio-frequency 
 and analog integrated circuit design**.
 
 here is my professional profile:
