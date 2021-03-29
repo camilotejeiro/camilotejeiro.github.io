@@ -200,6 +200,7 @@ for years to come.
 ![8](/linked_files/2021-03-21-manual-height-adjustable-table_8.jpg "8")
 ![9](/linked_files/2021-03-21-manual-height-adjustable-table_9.jpg "9")
 ![10](/linked_files/2021-03-21-manual-height-adjustable-table_10.jpg "10")
+![11](/linked_files/2021-03-21-manual-height-adjustable-table_10.jpg "11")
 
 {% include issues_comments.md %}
 
