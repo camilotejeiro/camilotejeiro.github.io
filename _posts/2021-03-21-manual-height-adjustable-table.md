@@ -2,7 +2,7 @@
 title: 'Manual Height Adjustable Table'
 ---
 
-Sometime ago, we purchased a [manual height adjustable table frame from Primecable](https://www.primecables.ca/p-360852-cab-n02-22d-primecables-manual-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black).
+Sometime ago, we purchased a [manual height adjustable table frame from PrimeCables](https://www.primecables.ca/p-360852-cab-n02-22d-primecables-manual-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black).
 
 The quality of the frame is really good. It feels very heavy duty (also it is quite heavy but it
 comes in a box with handles so this helps). Overall, the frame feels like it will last through a lot
@@ -11,7 +11,7 @@ of wear and tear for years to come, and it's a really nice option especially her
 Note however, as they sell only the frame, one has to find the table top elsewhere. 
 
 *Please keep in mind the recommended top size from the manufacturer*.(which can be found in the
-Primecables site above)
+PrimeCables site above)
 
 One good option is Ikea which sells a couple of particle-board and wood tops for every budget,
 from affordable particle-board composite materials to higher-end wood tops. ([Ikea table tops](https://www.ikea.com/ca/en/cat/table-tops-11844/?sort=PRICE_LOW_TO_HIGH)) 
@@ -54,17 +54,17 @@ assembly/dissasembly process a bit easier on the wood._
 
 Having settled on the counter top, we needed to get all other materials needed for assembly. We
 followed the [helpful guide](https://gist.github.com/mdo/150b7d8b666a114831ab3908d74ee424#file-00-intro-md) 
-which is primarily intended for the Ikea adjustable table frame, but worked well for the Primecable
+which is primarily intended for the Ikea adjustable table frame, but worked well for the PrimeCables
 table frame. (with a couple of very minor modifications)
 
 So, prior to starting, go on and read the guide to get a good idea for the little project ahead.
 
 We are very grateful with the authors of the Ikea guide :), and for the most part have followed
-similar steps below, modified to the Primecables frame base and Canada Home Depot links instead ;)
+similar steps below, modified to the PrimeCables frame base and Canada Home Depot links instead ;)
 
 ## Tools/Materials
 
-Get the tools and materials needed. (updated for Prime-cable table frame)
+Get the tools and materials needed. (updated for PrimeCables table frame)
 
 I have added some helpful links below for those in Canada, where this is probably most applicable.
 (_If some of the links are no-longer available, you can search by the description for similar items_)
@@ -83,7 +83,7 @@ Also, the following tools (if you don't already have them):
 * [Drill bit kit (including 11/32" and 9/32")](https://www.homedepot.ca/product/fuller-high-speed-steel-drill-bit-set-21-piece-/1001197504)
 * Masking tape
 * Screwdriver
-* Allen Wrench (included with Primecable frame package)
+* Allen Wrench (included with PrimeCables frame package)
 * Pencil and tape measure.
 
 ## Instructions
