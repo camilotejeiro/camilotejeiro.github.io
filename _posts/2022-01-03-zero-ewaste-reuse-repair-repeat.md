@@ -2,6 +2,18 @@
 title: 'Zero E-Waste : Re-use, Re-pair, Repeat'
 ---
 
+## Update 
+
+I reached out to the city of Toronto to understand and learn from the city's efforts in this regard
+(e-waste reduction). I am very grateful that they kindly took time to go over all the current city
+initiatives, and I was happy to hear that this is one area where a lot of efforts are in place. I am
+hopeful that some of the initiatives continue to gain traction! (I am leaving their name off this
+post for privacy)
+
+**At the end of this post (scroll to the bottom)** I am sharing a summary of some of the information
+from the city in the hope that it will be useful to others. (I kept the narrative order of the
+original post in place to be able to provide some context for the follow-up information)
+
 ## Background:
 
 Electronics tend to be some of the most polluting waste we have (except perhaps for plastics
@@ -11,8 +23,9 @@ Notwithstanding what corporations may tell you, (almost always) raw materials ar
 re-cycled materials. For some context, refer to the success of plastics recycling, possible yet
 not economical.
 
-The best that can be done often for this kind of end-of-life e-waste is categorization of waste to
-keep it off from landfills where it may contaminate soil or underground waters.
+First and foremost, the best that can be done for this kind of end-of-life e-waste is categorization to
+keep it off from landfills where it may contaminate soil or underground waters, furthermore in some cases 
+recycling can be viable if a technical flow and recycling market exists.
 
 I really think in the electronics sector is where re-use and repair can really hold the most value
 in the reduction of waste that ends up in landfills. 
@@ -101,7 +114,7 @@ for this work). The benefit of having the durability seal displayed on their pro
 increase in perceived value by consumers and hence a higher market price.
 (one can even envision gold/silver/bronze seals for different durability and repairability specs). 
 
-Initially particiaption in such a program can be made free-of-charge as an incentive to
+Initially participation in such a program can be made free-of-charge as an incentive to
 manufacturers, with time as the program is streamlined and the reputation of the program grows,
 application fees will be put in place to shoulder the cost of the program away from taxpayers
 pockets.
@@ -113,6 +126,44 @@ hence further helping consumer's purchase selections.
 The end result: consumer choices based on trusted research which prioritize the purchase of quality,
 durable, re-pairable and further re-usable products. This in turn will keep e-waste away from
 landfills and reduce both the waste management cost to governments and the burden on the environment.
+
+## Information from the City
+
+Helpful information shared from the City of Toronto, this is just a small summary of links with key
+areas to highlight.
+
+### 1. [E-waste collection guidelines](https://www.toronto.ca/services-payments/recycling-organics-garbage/electronic-waste/)
+
+As part of the city of Toronto [Long term Waste Management Strategy](https://www.toronto.ca/services-payments/recycling-organics-garbage/long-term-waste-strategy/), 
+some of the following programs and initiatives are in place. Indeed, prioritizing the prevention of waste
+(i.e. reduction, re-use, repair) over recycling is a key goal of the LTWMS.
+
+### 2. [Donation and Re-use](https://www.toronto.ca/services-payments/recycling-organics-garbage/long-term-waste-strategy/waste-reduction/)
+Donation and re-use are encouraged first, whenever possible.
+
+Specifically, [re-use, sharing and repair](https://www.toronto.ca/services-payments/recycling-organics-garbage/long-term-waste-strategy/waste-reduction/community-reduce-reuse-programs/#:~:text=This%20program%20provides%20workshop%20spaces,design%20clothes%20from%20repurposed%20textiles) 
+are encouraged as a way to help mitigate our throw-away culture and prolong the life of a myriad
+products, including electronics.
+
+* E-waste can be dropped-off at one of the Share & Re-use Spaces (see tab in above link), where it
+  can be repaired, shared or re-purposed.
+
+---
+  
+### [Extended Producer Responsibility](https://rpra.ca/programs/electronics/). 
+Another very interesting new regulation in Ontario I was made aware of is the EPR.
+Via this [regulation](https://www.ontario.ca/laws/regulation/200522), the stewardship and costs associated
+with e-waste management are covered by the producers. This is very powerful as it forces the price
+of goods (up-front) to reflect the added cost on the environment. 
+
+### Repair Cafe Toronto
+
+For those that would like to give new life to electronics through repair. Toronto has 
+[Repair Cafe Toronto](https://repaircafetoronto.ca/) with several locations in the city. 
+Whether you are someone who wants to both learn and repair an item you have, or you are someone
+technically inclined with hands-on repair experience that would like to volunteer to repair items
+from the community and share your know how: Repair Cafe is a great community organization promoting
+re-pair and re-use.
 
 {% include issues_comments.md %}
 
