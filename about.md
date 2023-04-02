@@ -6,10 +6,9 @@ layout: page
 _I created this blog to record and share some of my work in case it is useful 
 to others, or to myself at a later date._ 
 
-I am a **Hardware Electrical Engineer**, in a lifelong journey to specialize in **radio-frequency 
-and analog integrated circuit design**.
+I am a **Hardware Electrical Engineer**, in the field of **Analog IC design**. 
 
-Here is my professional profile:
+Below is my professional profile:
 
 _My resume and professional profile tend to be most up to date._
 
