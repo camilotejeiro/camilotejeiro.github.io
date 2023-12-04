@@ -1,5 +1,5 @@
 ---
-title: 'Ganando Indulgencias con Avemarias Ajenas (when someone takes everyone's credit)'
+title: 'Ganando Indulgencias con Avemarias Ajenas: when someone takes everyone's credit'
 ---
 
 This is a common quote in spanish, and I feel it explains very well the current state of many of the
