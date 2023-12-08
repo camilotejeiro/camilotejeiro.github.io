@@ -2,6 +2,8 @@
 title: 'ISO EC Project'
 ---
 
+**Note there is an update of this post coming up soon (based on feedback received for improvement)**
+
 The Isomorphic (ISO) English Concertina (EC) project aims to investigate an alternative keyboard layout
 for the [English concertina](https://en.wikipedia.org/wiki/English_concertina). 
 The goal is to take into account the EC's most powerful features
