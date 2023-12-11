@@ -573,9 +573,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="310.82632"
-     inkscape:cy="439.52487"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="440.92099"
+     inkscape:cy="508.30241"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -637,7 +637,7 @@
          y="-1258.5388"
          x="-889.99817"
          sodipodi:role="line"
-         id="tspan6237">ISO EC C4R STD - FLAT 5 CHORDS</tspan></text>
+         id="tspan6237">ISO EC C4L STD - FLAT 5 CHORDS</tspan></text>
     <text
        id="text2508-0-6-4-1-8-9-1-4"
        y="-1248.7087"
@@ -2158,7 +2158,7 @@
          y="-1152.9554"
          x="-890.35089"
          sodipodi:role="line"
-         id="tspan6237-7">ISO EC C4R STD - SUS 4 CHORDS</tspan></text>
+         id="tspan6237-7">ISO EC C4L STD - SUS 4 CHORDS</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2735-0-8-2-1-1-9"

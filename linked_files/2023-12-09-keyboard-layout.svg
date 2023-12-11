@@ -586,7 +586,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999996"
-     inkscape:cx="449.83232"
+     inkscape:cx="601.83232"
      inkscape:cy="430.16718"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -650,7 +650,7 @@
          y="-1247.6586"
          x="-888.88135"
          sodipodi:role="line"
-         id="tspan6237">ISO EC C4R STD LAYOUT (56 BUTTONS) </tspan></text>
+         id="tspan6237">ISO EC C4L STD LAYOUT (56 BUTTONS) </tspan></text>
     <text
        id="text2508-0-6-9-5-6-1-6-2"
        y="-1238.2664"
@@ -661,7 +661,7 @@
          y="-1238.2664"
          x="-889.68451"
          sodipodi:role="line"
-         id="tspan6237-2">ISOMORPHIC ENGLISH CONCERTINA C4 on Right (Standard full layout)</tspan></text>
+         id="tspan6237-2">ISOMORPHIC ENGLISH CONCERTINA C4 on Left (Standard full layout)</tspan></text>
     <text
        id="text2508-0-6-4-1-8-9-1-4"
        y="-1228.4585"
@@ -2643,5 +2643,16 @@
          x="-888.96301"
          sodipodi:role="line"
          id="tspan7328">(Left-hand mirrored) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-1063.1614"
+       y="-1154.4666"
+       id="text1697"><tspan
+         sodipodi:role="line"
+         id="tspan1695"
+         x="-1063.1614"
+         y="-1151.9696"
+         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>
