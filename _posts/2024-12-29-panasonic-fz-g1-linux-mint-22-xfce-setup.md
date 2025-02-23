@@ -661,7 +661,7 @@ Related sources:
 ---
 
 * [How to optimize XFCE4 for tablets](https://blog.bitsandbobs.net/blog/xfce-for-tablets)
-* [Enable hibernate Linux Mint] (https://fostips.com/enable-hibernate-linux-mint)
+* [Enable hibernate Linux Mint](https://fostips.com/enable-hibernate-linux-mint)
 * [Bios sub-configuration passwords Panasonic toughbook](https://www.reddit.com/r/toughbook/comments/t7ben5/bios_sub_configuration_passwords_able_to_reset/)
 * [Log into linux with pin number](https://fostips.com/log-into-linux-pc-pin-number/)
 * [How Can I Make Mint XFCE More Touch Friendly?](https://forums.linuxmint.com/viewtopic.php?t=413583)
